@@ -1,0 +1,25 @@
+<h1>Transmission Requests</h1>
+<% if @sites.blank? %>
+    <p>
+      No requests to display.
+    </p>
+<% else %>
+    <% form_tag ({:controller => 'transmission_date', :action => 'show'}, {:method => :get}) do %>
+        <h2>Quick search</h2>
+        JV ID: i.e. JS9999<br>
+        <%= text_field 'site', 'jv_site' %><br>
+        <%= hidden_field 'site', 'id' %>
+        <input type="HIDDEN" name="form_referrer" value="show_site">
+        <input type="submit" value="GOTO SITE" name="submit"/><br>
+    <% end %><br>
+    <% @sites.each do |f| %>
+        <li>
+          <% linkname = f.jv_site+" - "+f.name %>
+          <%= link_to linkname, {:action => 'show', :id => f.site_id} %>
+        </li>
+    <% end %>
+    <br>
+    <%= will_paginate @sites %>
+    <%= page_entries_info @sites %>
+
+<% end %>

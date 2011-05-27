@@ -1,0 +1,103 @@
+<div id="content">
+  <table>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>JV Site ID</td>
+            <td>
+              <%= @site.jv_site %>
+            </td>
+          </tr>
+          <tr>
+            <td>Site Name</td>
+            <td>
+              <%= @site.name %>
+            </td>
+          </tr>
+          <tr>
+            <td>State</td>
+            <td>
+              <%= @site.state.name %>
+            </td>
+          </tr>
+          <tr>
+            <td>Area</td>
+            <td>
+              <%= @site.area.name %>
+            </td>
+          </tr>
+          <tr>
+            <td>Optus Site ID</td>
+            <td>
+              <%= @site.optus_site %>
+            </td>
+          </tr>
+          <tr>
+            <td>Vodafone Site ID</td>
+            <td>
+              <%= @site.vodafone_site %>
+            </td>
+          </tr>
+          <tr>
+            <td>Latitude DLL</td>
+            <td>
+              <%= @site.latitude_dll %>
+            </td>
+          </tr>
+          <tr>
+            <td>Longitude DLL</td>
+            <td>
+              <%= @site.longitude_dll %>
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table>
+          <tr>
+            <td>Macro Type</td>
+            <td>
+              <%= @site.macro_type.name %>
+            </td>
+          </tr>
+          <tr>
+            <td>Pre-Spinoza Site Status</td>
+            <td>
+              <%= @site.pre_build_status.pre_spinoza_site_status %>
+            </td>
+          </tr>
+          <tr>
+            <td>Build State</td>
+            <td>
+              <%= @site.build_status.name %>
+            </td>
+          </tr>
+          <tr>
+            <td>Build Responsibility</td>
+            <td>
+              <%= @site.build_responsibility %>
+            </td>
+          </tr>
+          <tr>
+            <td>Source Program</td>
+            <td>
+              <%= @site.site_source_program.source %>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+  <%= link_to 'Edit Site Details', :action => 'edit', :id => @site.id %>
+  <br>
+  <%= render :partial => 'node_show_cells' unless @site.nodes.empty? %>
+
+
+  <% unless @spin_sites.empty? %>
+      <%= render :partial => 'spin_sites' %>
+  <% end %>
+  <br>
+  <%= render :partial => 'transmission_show_requests' %>
+</div>
+

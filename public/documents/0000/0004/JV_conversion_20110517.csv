@@ -1,0 +1,110 @@
+jv_site_number,site_name,site_number,wa_status,work_type,program_year_build,pccs_forecast_date,pccs_actual_date,sae_forecast_date,sae_actual_date,cws_forecast_date,cws_actual_date,pc_forecast_date,pc_actual_date,tx_forecast_date,tx_actual_date,op_rfi_forecast_date,op_rfi_actual_date,WA_ID,equip_forecast_date,equip_actual_date
+JA9219,CBD East -O,A0082,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,101995
+JA9220,Pulteney Street -O,A0275,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,101996
+JB9474,Mountain Creek -O,B0392,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102014
+JB9476,Rio Vista -O,B0403,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102015
+JB9479,Ashmore South -O,B0452,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102016
+JB9482,Herston -O,B0468,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102017
+JB9484,Tingalpa South -O,B0518,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102019
+JB9485,Griffin -O,B0519,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102020
+JB9486,Sunshine Motorway -O,B0543,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102021
+JB9487,Andrews -O,B0549,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102022
+JB9489,The Gap North -O,B0577,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102023
+JB9490,Pertell Park -O,B0579,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102024
+JB9491,Norman Park -O,B0584,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102025
+JB9493,Cleveland North -O,B0595,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102026
+JB9494,Bridgeman Downs -O,B0607,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102027
+JB9497,Hill End -O,B0655,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102028
+JB9498,Meeandah -O,B0659,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102029
+JB9500,MacGregor-Newham Rd -O,B0663,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102030
+JB9501,Torwood -O,B0669,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102031
+JB9503,Harbourtown -O,B0688,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102032
+JB9504,Bald Hills South -O,B0723,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102033
+JB9505,Benowa -O,B0725,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102034
+JB9506,Bray Park -O,B0727,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102035
+JB9513,Moorooka East -O,B0905,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102037
+JB9514,Bald Hills North -O,B0924,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102038
+JB9516,Maroochydore -O,B0164,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102039
+JB9519,Ernest -O,B0367,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102040
+JB9521,Darra -O,B0517,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102041
+JB9522,Chermside Shopping Complex -O,B0874,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102042
+JB9524,Brisbane East -O,B0008,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102043
+JB9526,Milton -O,B0137,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102044
+JB9529,Convention Centre -O,B0362,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102045
+JB9532,Main & Princess Streets -O,B0711,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102047
+JB9535,College & Gregory -O,B0732,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102048
+JB9536,Countess Street -O,B0736,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102049
+JB9445,Banyo -O,B0004,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,101997
+JB9449,Runaway Bay -O,B0028,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102000
+JB9455,Sorrento -O,B0106,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102002
+JB9456,Mt Gravatt East -O,B0115,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102003
+JB9457,Arundel -O,B0130,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102004
+JB9458,Surfers North -O,B0133,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102005
+JB9460,Broadbeach -O,B0171,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102006
+JB9461,Southport North -O,B0198,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102007
+JB9462,Springwood North -O,B0199,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102008
+JB9463,Brisbane Airport -O,B0213,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102009
+JB9468,Palm Beach2 -O,B0371,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102010
+JB9470,Stafford Heights -O,B0382,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102011
+JB9472,Shailer Park -O,B0387,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102013
+JM9835,Ringwood West -O,M1925,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102050
+JM9836,Scoresby South -O,M1926,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102051
+JM9845,Clayton -O,M0028,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102052
+JM9849,Campbellfield -O,M0050,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102053
+JM9850,Rosebud -O,M0061,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102054
+JM9851,Sorrento VIC -O,M0062,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102055
+JM9852,Calder Park -O,M0213,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102056
+JM9853,Huntingdale2 -O,M0234,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102057
+JM9854,Plenty -O,M0284,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102058
+JM9855,Campbellfield East -O,M0344,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102059
+JM9856,Dandenong South -O,M0367,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102060
+JM9857,Hillside -O,M0410,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102061
+JM9858,Broadmeadows North -O,M0529,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102062
+JM9860,Dandenong East -O,M0553,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102063
+JM9862,Clayton Station -O,M0624,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102064
+JM9863,The Basin North -O,M0639,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102065
+JM9864,Fawkner North -O,M0656,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102066
+JM9865,Donvale -O,M0684,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102067
+JM9866,Frankston East -O,M0690,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102068
+JM9868,Narre Warren North2 -O,M0704,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102069
+JM9873,Dingley Village -O,M1213,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102070
+JM9875,Keysborough North -O,M1226,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102079
+JM9877,Endeavour Hills West -O,M1236,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102080
+JM9879,Clayton Business Park -O,M1257,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102081
+JM9881,Noble Park North -O,M1295,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102082
+JM9890,Oakleigh East2 -O,M1542,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102083
+JM9900,Bell Park -O,M0916,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102084
+JP9355,Kelmscott North -O,P8288,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102094
+JP9293,South Fremantle -O,P0139,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102085
+JP9294,ShentonPark -O,P0140,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102086
+JP9296,Rokeby Road -O,P0184,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102087
+JP9297,Albany Highway -O,P0323,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102088
+JP9299,Doubleview North -O,P0362,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102089
+JP9300,Perth West (Comm Bank) -O,P0001,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102090
+JP9301,Girrawheen -O,P0264,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102091
+JP9303,Peppermint Grove -O,P0194,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102092
+JP9304,Scarborough -O,P0076,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102093
+JS6190,Parramatta AMWU -O,S0409,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102075
+JS6112,Rooty Hill M7 -O,S5749,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102095
+JS6117,Bankstown Airport -O,S0479,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102096
+JS6119,Gosford CBD -O,S0656,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102097
+JS6124,Castle Hill Technology Centre -O,S0700,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102098
+JS6126,Prospect2 -O,S1133,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102099
+JS6130,Wahroonga F3 -O,S1411,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102100
+JS6131,RAYMOND STREET -O,S1413,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102101
+JS6132,Oxford Falls -O,S0272,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102102
+JS6134,Huntingwood North -O,S1891,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102103
+JS6135,Cronulla South -O,S1908,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102104
+JS6138,Rookwood -O,S0704,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102891
+JS6141,Picnic Point -O,S5754,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102105
+JS6143,Blakehurst -O,S5755,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102106
+JS6144,Parramatta Gasworks -O,S0331,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102107
+JS6145,Harris Park -O,S1079,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102071
+JS6146,Greystanes North -O,S1826,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102072
+JS6148,North Mt Kuring-gai -O,S5758,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102073
+JS6157,Killara -O,S1075,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102074
+JB9471,McDowall -O,B0383,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102012
+JB9509,Nathan -O,B0750,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102036
+JB9452,Eastern Heights -O,B0048,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102001
+JB9483,Ipswich -O,B0504,Current,JV Site Conversion,'11/12',,,,,,,,,,,,,102018
+JB9530,North Quay -O,B0364,Current,JV Site Conversion,'11/12',,,09-MAR-11,09-MAR-11,,,01-JUN-11,,,,01-JUN-11,,102046

@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+  <title>Index: <%= controller.action_name %></title>
+  <%= stylesheet_link_tag 'site' %>
+  <%= javascript_include_tag :defaults %>
+  <%= calendar_date_select_includes %>
+</head>
+<body>
+<div id="whole_page">
+  <div id="header">
+    Galileo
+    <% if ENV['RAILS_ENV'] != 'production' %>
+        -- Development
+    <% end %>
+  </div>
+
+  <% if session[:user_id] and session[:user_id] != :logged_out %>
+      <% form_for(Site.all, :url =>{:controller=>'sites', :action =>'show'}) do |ss| -%>
+          <%= ss.label :jv_site, "Quick Search - enter JV/Optus/Vodafone site id or Site Name (Case Sensitive)" %>
+          <%= ss.text_field :jv_site %>
+          <%= ss.submit 'Show', :controller=>'sites', :action=>'show' %>
+      <% end %>
+  <% end %>
+
+  <div id="nav">
+
+    <span style="float:left">
+    <% if session[:user_id] and session[:user_id] != :logged_out %>
+        <% if session[:spin_access] %>
+            <%= nav_link "SPIN", "spins" %> |
+        <% end %>
+          <% if session[:transmission_access] %>
+            <%= nav_link "Transmission", "transmission_date" %> |
+        <% end %>
+          <% if session[:report_access] %>
+            <%= nav_link "Reports", "reports" %> |
+        <% end %>
+          <%= nav_link "Help", "index", "help" %>
+          <%= h(" | ") if session[:admin_access] %>
+          <%= nav_link "Import Data", "imports", "new" if session[:admin_access] %>
+    <% end %>
+    </span>
+
+    <span style="float: right">
+       <% if session[:user_id] and session[:user_id] != :logged_out %>
+         Welcome <%= User.find(session[:user_id]).full_name %> |
+          <% if session[:jvo_access] %>
+              <%= nav_link "JVO Internal Page", "admin", "jvo_page" %> |
+          <% end %>
+          <%= nav_link "Home", "admin", "index" %> |
+          <%= nav_link "Logout", "admin", "logout" %>
+
+          <% if session[:admin_access] %>
+             <%= h(" | ") %>
+              <%= nav_link "Add User", "users", "new" %>
+              <%= h(" | ") %>
+              <%= nav_link "Edit Users", "users", "index" %>
+           <% end %>
+       <% end %>
+     </span>
+
+
+  </div>
+  <div id="content">
+
+    <% if flash[:notice] -%>
+        <div id="notice">
+          <%= flash[:notice] %>
+        </div>
+    <% end -%>
+    <% if flash[:error] -%>
+        <div id="error">
+          <%= flash[:error] %>
+        </div>
+
+    <% end -%>
+    <%= yield %>
+    <br clear="all"/>
+  </div>
+</div>
+</body>
+</html>

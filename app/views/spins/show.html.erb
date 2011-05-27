@@ -1,0 +1,74 @@
+<b>View/Edit <%= h(@spin.spinnumber) %></b>
+<% current_status = @spin.tracking_id %>
+
+    <table>
+      <tr>
+        <td>
+            Spin Title:
+        <td><%= @spin.Name %>
+      </tr>
+      <tr>
+        <td>
+            Description:
+        <td><%= f.text_field 'Descr' %>
+      </tr>
+      <tr>
+        <td>
+            Operator:
+        <td><%= f.text_field 'operator' %>
+      </tr>
+      <tr>
+        <td>
+            Initiator:
+        <td><%= f.text_field 'initiator' %>
+      </tr>
+      <tr>
+        <td>
+            Email:
+        <td><%= f.text_field 'email' %>
+      </tr>
+      <tr>
+        <td>
+            Phone:
+        <td><%= f.text_field 'phone' %>
+      </tr>
+      <tr>
+        <td>
+          Track Category:
+        </td>
+        <td><h2><%= h(@spin.tracking.category) %></h2></td>
+      </tr>
+      <tr>
+        <td>
+            Date Raised:
+        <td><%= date_select("spin", "date_raised", :order => [:day, :month, :year], :include_blank => true) %>
+      </tr>
+      <tr>
+        <td>
+            Optus Final:
+        <td><%= date_select('spin', 'optus_final', :order => [:day, :month, :year], :include_blank => true) %>
+      </tr>
+      <tr>
+        <td>
+            VHA Final:
+        <td><%= date_select('spin', 'vha_final', :order => [:day, :month, :year], :include_blank => true) %>
+      </tr>
+      <tr>
+        <td>
+          JVO Final:
+        <td><%= date_select('spin', 'jvo_final', :order => [:day, :month, :year], :include_blank => true) %>
+      </tr>
+      <tr>
+        <td>
+            Date Closed:
+        <td><%= date_select('spin', 'date_closed', :order => [:day, :month, :year], :include_blank => true) %>
+      </tr>
+    </table>
+
+    <% unless @spin_sites.empty? %>
+        Site/Node/Cell data affected by this spin (includes existing data)
+        <%= render :partial => 'spin_sites', :locals => {:f => f} %>
+    <% end %>
+
+<p>
+  <%= link_to 'Home', {:action => 'index'} %>

@@ -1,0 +1,18 @@
+<p>
+  <b>User:</b>
+  <%=h @user_report.user_id %>
+</p>
+
+<p>
+  <b>Report:</b>
+  <%=h @user_report.report_id %>
+</p>
+
+<p>
+  <b>Active:</b>
+  <%=h @user_report.active %>
+</p>
+
+
+<%= link_to 'Edit', edit_user_report_path(@user_report) %> |
+<%= link_to 'Back', user_reports_path %>

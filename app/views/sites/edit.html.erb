@@ -1,0 +1,91 @@
+<div id="content">
+  <% form_for(@site, :url => {:action => 'update'}) do |f| %>
+      <table>
+        <tr>
+          <td>JV Site ID</td>
+          <td>
+            <%= @site.jv_site %>
+          </td>
+        </tr>
+        <tr>
+          <td>Site Name</td>
+          <td>
+            <%= f.text_field :name %>
+          </td>
+        </tr>
+        <tr>
+          <td>State</td>
+          <td>
+            <%= f.select(:state_id, State.all.collect { |p| [p.abbr, p.id] }) %>
+          </td>
+        </tr>
+        <tr>
+          <td>Area</td>
+          <td>
+            <%= f.select(:area_id, Area.all.collect { |p| [p.name, p.id] }) %>
+          </td>
+        </tr>
+        <tr>
+          <td>Optus Site ID</td>
+          <td>
+            <%= f.text_field :optus_site %>
+          </td>
+        </tr>
+        <tr>
+          <td>Vodafone Site ID</td>
+          <td>
+            <%= f.text_field :vodafone_site %>
+          </td>
+        </tr>
+        <tr>
+          <td>Latitude DLL</td>
+          <td>
+            <%= f.text_field :latitude_dll %>
+          </td>
+        </tr>
+        <tr>
+          <td>Longitude DLL</td>
+          <td>
+            <%= f.text_field :longitude_dll %>
+          </td>
+        </tr>
+        <tr>
+          <td>Address</td>
+          <td>
+            <%= f.text_field :address %>
+          </td>
+        </tr>
+        <tr>
+          <td>Macro Type</td>
+          <td>
+            <%= f.select(:macro_type_id, MacroType.all.collect { |p| [p.name, p.id] }) %>
+          </td>
+        </tr>
+        <tr>
+          <td>Pre-Spinoza Site Status</td>
+          <td>
+            <%= f.select(:pre_build_status_id, PreBuildStatus.all.collect { |p| [p.pre_spinoza_site_status, p.id] }) %>
+          </td>
+        </tr>
+        <tr>
+          <td>Build State</td>
+          <td>
+            <%= f.select(:status_id, Status.all.collect { |p| [p.name, p.id] }) %>
+          </td>
+        </tr>
+        <tr>
+          <td>Build Responsibility</td>
+          <td>
+            <%= f.select(:build_responsibility, Operator.all.collect { |p| [p.name] }) %>
+          </td>
+        </tr>
+        <tr>
+          <td>Source Program</td>
+          <td>
+            <%= f.select(:site_source_program_id, SiteSourceProgram.all.collect { |p| [p.source, p.ID] }) %>
+          </td>
+        </tr>
+      </table>
+      <%= f.submit %>
+  <% end %>
+</div>

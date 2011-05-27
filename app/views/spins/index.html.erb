@@ -1,0 +1,36 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+        <title>SPIN Updates</title>
+    </head>
+    <body>
+        <h1>SPIN Request List</h1>
+
+        <h2><%= link_to "Add new SPIN", {:action => 'new'} %></h2>
+        <% if @spins.blank? %>
+        <p>
+            No SPINS to display.
+        </p>
+        <% else %>
+        <% form_tag({:controller => 'spins', :action => 'edit'}, {:method => :get}) do %>
+            <h2>Quick search</h2>
+            SPIN ID: i.e. 1234
+            <%= text_field 'spin', 'id' %>
+            <input type="HIDDEN" name="form_referrer" value="show_spin">
+            <input type="submit" value="GO TO SPIN" name="submit"/><br>
+        <% end %>
+
+        <% @spins.each do |f| %>
+        <li>
+            <% linkname = "SPIN"+f.id.to_s+" - "+f.tracking.category+" - "+f.user.full_name+" - "+f.Name %>
+            <%= link_to linkname , {:action => 'edit' ,:id => f.id} %>
+        </li>
+        <% end %>
+        <br>
+        <%= will_paginate @spins %>
+        <%= page_entries_info @spins %>
+        <% end %>
+    </body>
+</html>

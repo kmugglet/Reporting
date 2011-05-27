@@ -1,0 +1,60 @@
+<table border='1' id='small'>
+  <tr>
+    <th>JV Site ID</th>
+    <th>Node Number</th>
+    <th>Site Name</th>
+    <th>State</th>
+    <th>Area</th>
+    <th>Optus ID</th>
+    <th>VHA ID</th>
+    <th>Latitude DLL</th>
+    <th>Longitude DLL</th>
+    <th>Node Owner</th>
+    <th>RNC</th>
+    <th>WBTS</th>
+    <th>Pre-Spinoze Site Status</th>
+    <th>Macro, IBC or Repeater</th>
+    <th>Build Responsibility</th>
+    <th>Source</th>
+    <th>Replacing</th>
+    <th>Status</th>
+    <th>Node Type</th>
+    <th>Cell Operator</th>
+    <th>Cell No.</th>
+    <th>Cell ID</th>
+    <th>UARFCN</th>
+  </tr>
+  <% for @site in @spin_sites %>
+      <% site = Site.find(@site['site_id']) %>
+      <% for node in site.nodes %>
+          <% for cell in node.cells %>
+              <tr>
+                <td><%= site.jv_site %></td>
+                <td><%= node.node_number %></td>
+                <td><%= site.name %></td>
+                <td><%= site.state.abbr %></td>
+                <td><%= site.area.name %></td>
+                <td><%= site.optus_site %></td>
+                <td><%= site.vodafone_site %></td>
+                <td><%= site.latitude_dll %></td>
+                <td><%= site.longitude_dll %></td>
+                <td><%= node.node_owner %></td>
+                <td><%= node.rnc %></td>
+                <td><%= node.wbts %></td>
+                <td><%= site.pre_build_status.pre_spinoza_site_status unless site.pre_build_status_id.blank? %></td>
+                <td><%= site.macro_type.name unless site.macro_type_id.blank? %></td>
+                <td><%= site.build_responsibility %></td>
+                <td><%= site.site_source_program.source unless site.site_source_program_id.blank? %></td>
+                <td><%= site.replacing %></td>
+                <td><%= site.status.name unless site.status_id.blank? %></td>
+                <td><%= node.node_type.name %></td>
+                <td><%= cell.cell_operator %></td>
+                <td><%= cell.cell_number %></td>
+                <td><%= cell.cellid %></td>
+                <td><%= cell.UARFCN.freq %></td>
+              </tr>
+          <% end %>
+      <% end %>
+  <% end %>
+</table>
+

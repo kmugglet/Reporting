@@ -1,0 +1,65 @@
+<% form_for :transmission_date, @new_request, :url => {:action=>'save_split', :id => @new_request.id} do |f| %>
+    <table border='1' width="90%" class="small">
+      <%= f.hidden_field :node_id %>
+      <%= f.hidden_field :Invoice_Party %>
+      <%= f.hidden_field :tx_source_programme_id %>
+      <%= f.hidden_field :operator_id %>
+      <%= f.hidden_field :Split_No %>
+      <%= f.hidden_field :Request_No %>
+      <%= f.hidden_field :Active_Node_Owner %>
+      <%= f.hidden_field :Existing_Capacity %>
+      <%= f.hidden_field :link_technology_id %>
+      <% @req_num.each do |r| %>
+          <input type="hidden" name="last_request" value="<%= r.request_no %>">
+      <% end %>
+      <input type="hidden" name="foo[split_node_id]" value="<%= @split[0]['id'] %>">
+      <% other_node_owner = Node.find(@split[0]['id']).node_owner %>
+
+      <tr>
+        <td>Site ID</td>
+        <td>ATM or IP</td>
+        <td>Current Capacity</td>
+        <td>Capacity for new node</td>
+        <td>New Node owner</td>
+      </tr>
+      <tr>
+        <td><%= @site.jv_site %></td>
+        <td><%= @new_request.link_technology.name %></td>
+        <td><%= @new_request.Existing_Capacity %></td>
+        <td>
+
+          <% @new_request.Existing_Capacity += 1 %>
+          <%= select("transmission_date", "Required_Capacity", 0...@new_request.Existing_Capacity { |p| [p] }, {:prompt => 'Select Capacity'}) %>
+        </td>
+        <td>
+          <%= h(other_node_owner) %>
+        </td>
+      </tr>
+      <tr>
+        <td><label for='transmission_date_date_raised'>Date Raised</label>
+        </td>
+        <td><label for='transmission_date_date_required_by'>Date Required By</label>
+        </td>
+         <td><label for='transmission_date_S7_Actual'>S7 Actual</label>
+        </td>
+        <td><label for='transmission_date_S8_Actual'>S8 Actual</label>
+      </tr>
+      <tr class="small">
+        <td>
+          <%= f.calendar_date_select 'date_raised' ,:format => 'lazy' %>
+        </td>
+        <td>
+          <%= f.calendar_date_select 'date_required_by'  ,:format => 'lazy' %>
+        </td>
+         <td>
+          <%= f.calendar_date_select 'S7_Actual'  ,:format => 'lazy' %>
+        </td>
+        <td>
+          <%= f.calendar_date_select 'S8_Actual'  ,:format => 'lazy' %>
+        </td>
+      </tr>
+    </table>
+    <%= f.submit 'Split Site', :id => 'split' %>
+    <%= f.submit 'Cancel', :id => 'cancel' %>
+
+<% end %>

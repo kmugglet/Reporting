@@ -1,0 +1,51 @@
+
+ul { margin: 0 0 -1em -12px; padding:1em 0 0 0; position:relative; border-color:#A2D3FF; }
+li {
+    border-left:3px solid #A2D3FF;
+    padding:0 0 1em 32px;
+    margin-left:0;
+    list-style:none;
+    font-size:13px;
+    position:relative;
+}
+li:first-child { }
+
+li::before { content:' ';
+    display:block; width:23px; height:1.5em;
+    position:absolute; left:-3px; top:-1em;
+    border: 3px solid #02D3FF; border-width:0 0 3px 3px;
+}
+li:first-child:before { height:2em; top:-1.5em; }
+/* FireFox ignores absolute positioning on the generated content */
+body:not([class*=""]) li:before {  margin-top:-1em; margin-bottom:-.6em ;margin-left:-35px; }
+body:not([class*=""]) li:first-child:before { margin-top:-1.55em; }
+
+li:last-child { border-left:none; margin-left:3px; /* moves the text over by the same amount as the line would have */ }
+
+li input { left: 11px; z-index:1; margin-top:-1px; position:absolute; opacity:.3; }
+li label { font-weight:bold;  }
+li label::after {
+    content: ' (click to open)';
+    font-weight: normal;
+    font-style: italic;
+    font-size:80%;
+    color:green;
+}
+li input:checked + label:after {
+    content: ' (click to close)';
+    color:red;
+}
+
+/* special for the root of the list: */
+ul#master {margin-left:0; }
+ul#master > li:first-child:before { display:none; }
+ul#master > li:first-child { border-left-width: 0; }
+
+/* here's the part that does the expanding and collapsing: */
+input + label + ul { display:none; }
+input:checked + label + ul { display:block; }
+
+h1 { font-size:18px; }
+h3 { font-size:15px; }
+p, code { font-size:12px; }
+

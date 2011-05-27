@@ -1,0 +1,3 @@
+module SpinHelper
+
+end

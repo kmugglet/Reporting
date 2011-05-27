@@ -1,0 +1,20 @@
+<table border='1' id='small'>
+  <tr>
+    <th>SPIN ID</th>
+    <th>Date Raised</th>
+    <th>Current Status</th>
+    <th>Date Closed</th>
+    <th>Link to Request</th>
+  </tr>
+  <% for @site in @spin_sites %>
+      <% spin = Spin.find(@site['spin_id']) %>
+      <tr>
+        <td><%= spin.spinnumber %></td>
+        <td><%= spin.date_raised %></td>
+        <td><%= spin.tracking.category %></td>
+        <td><%= spin.date_closed %></td>
+        <td><%= link_to 'View', {:controller => 'spins', :action => 'edit', :id => spin['id']} %></td>
+      </tr>
+  <% end %>
+</table>
+

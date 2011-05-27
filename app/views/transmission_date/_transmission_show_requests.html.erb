@@ -1,0 +1,83 @@
+<table border="1">
+  <tr>
+    <th>Node number</th>
+    <th>WBTS ID</th>
+    <th>Work Type</th>
+    <th>Active Node Owner</th>
+    <th>Request No.</th>
+    <th>Split No.</th>
+    <th>Date Raised</th>
+    <th>Date Required By</th>
+    <th>Orderer</th>
+    <th>ATM or IP</th>
+    <th>Existin Capacity</th>
+    <th>Required Capacity</th>
+    <th>S7 Transmission Completed</th>
+    <th>S8 Upgrade Completed</th>
+    <th>C1 Cancelled</th>
+    <th>C2 Split</th>
+    <th>C3 Passed to Deployment</th>
+    <th>C4 Completed by Deployment</th>
+    <th>Remarks</th>
+    <th>Update Existing</th>
+    <th>Cancel Existing</th>
+    <th>Split Existing</th>
+    <th>Add Request</th>
+    <th>Delete Existing</th>
+  </tr>
+  <% @transmission_dates.each do |f| %>
+      <% @u = TransmissionDate.find_by_sql("select v.* from v_latest_transmission_request_id_per_node v where v.id = "+f.id.to_s) %>
+      <tr>
+        <td><%= f.node.node_number %></td>
+        <td><%= f.node.wbts %></td>
+        <td><%= f.Work_Type %></td>
+        <td><%= f.Active_Node_Owner %></td>
+        <td><%= f.Request_No %></td>
+        <td><%= f.Split_No %></td>
+        <td><%= f.date_raised.try(:strftime, "%d/%m/%Y") %></td>
+        <td><%= f.date_required_by.try(:strftime, "%d/%m/%Y") %></td>
+        <td><%= f.Active_Node_Owner %></td>
+        <td><%= f.link_technology.name %></td>
+        <td><%= f.Existing_Capacity %></td>
+        <td><%= f.Required_Capacity %></td>
+        <td><%= f.S7_Actual.try(:strftime, "%d/%m/%Y") %></td>
+        <td><%= f.S8_Actual.try(:strftime, "%d/%m/%Y") %></td>
+        <td><%= f.C1.try(:strftime, "%d/%m/%Y") %></td>
+        <td><%= f.C2.try(:strftime, "%d/%m/%Y") %></td>
+        <td><%= f.C3.try(:strftime, "%d/%m/%Y") %></td>
+        <td><%= f.C4.try(:strftime, "%d/%m/%Y") %></td>
+        <td><%= f.Remarks %></td>
+        <td>
+          <% if (f.S8_Actual.blank? and f.C1.blank? and f.C2.blank? and f.C4.blank?) %>
+              <%= link_to "Update request", {:action => 'update_request', :id => f.id} %>
+          <% end %>
+        </td>
+        <td>
+          <% if (f.S8_Actual.blank? and f.C1.blank? and f.C2.blank? and f.C3.blank? and f.C4.blank?) %>
+              <%= link_to "Cancel existing request", {:action => 'cancel_existing_request', :id => f.id} %>
+          <% end %>
+        </td>
+        <td>
+          <% if (f.S8_Actual.blank? and f.C1.blank? and f.C2.blank? and f.C3.blank? and f.C4.blank?) %>
+              <%= link_to "Split existing request", {:action => 'split_existing_request', :id => f.id} %>
+          <% end %>
+        </td>
+        <td>
+          <% if !(@u.blank?) %>
+              <%= link_to "Add request", {:action => 'add_request', :id => f.id} %>
+          <% end %>
+        </td>
+        <td>
+          <%= link_to "Remove request", :action => 'del_request', :confirm => "Are you sure?", :id => f.id %>
+        </td>
+      </tr>
+  <% end %>
+</table>
+<center>
+       <%= link_to "Build Initial Transmission", :action => 'build_initial', :id => @site['id'] %> &nbsp; &nbsp; &nbsp;
+<% if !(@split.blank?) %>
+      <%= link_to "Split Site", :action => 'split_site', :id => @transmission_dates.last %>
+<% end %>
+</center>
+
+<%= link_to 'Back', {:action => 'index'} %>

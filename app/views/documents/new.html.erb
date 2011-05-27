@@ -1,0 +1,17 @@
+<h1>Import data</h1>
+
+<% form_for(@document, :html => {:multipart => true}) do |f| %>
+  <%= f.error_messages %>
+
+ <p>
+    <%= f.label :filename %><br />
+    <%= f.file_field :filename %>
+  </p>
+  <p>
+
+    <%= submit_tag('Import Optus Milestones') %>
+
+  </p>
+<% end %>
+
+<%= link_to 'Back', documents_path %>

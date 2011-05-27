@@ -1,0 +1,41 @@
+<table border="1" width="25%">
+  <tr>
+    <th colspan="2">Dashboard</th>
+  </tr>
+  <tr>
+    <td><font color='green'><b>Draft Reports - Generated daily</b></font> </td>
+    <td><font color='green'><b>Milestone Import logs</b></font> </td>
+   </tr>
+  <tr>
+    <td><%= link_to 'Draft Dashboard', '/reports/dashboard/dashboard.xls' %></td><td></td>
+  </tr>
+  <tr>
+    <td colspan="2"><font color='blue'><b>Historical Reports (newest at top)</b></font></td><td></td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <% @dashboard_files.each do |f| %>
+            <tr>
+              <td>
+                <%= link_to f, '/reports/dashboard/'+f %>
+              </td>
+            </tr>
+        <% end %>
+      </table>
+    </td>
+    <td>
+      <table>
+        <% @log_files.each do |f| %>
+            <tr>
+              <td>
+                <%= link_to f, '/reports/logs/'+f %>
+              </td>
+            </tr>
+        <% end %>
+      </table>
+    </td>
+  </tr>
+</table>
+
+

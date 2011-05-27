@@ -1,0 +1,25 @@
+Filter let you specify common filtering options, in order to generate
+a filtered condition, useful for filtering from request params.
+
+Example usage:
+   filters = Filter.new
+   filters.multiple types, :type_id
+
+   people = People.find(:all, :conditions => filters.conditions)
+   
+   Generates: SELECT * FROM people WHERE (type_id IN (1,2))
+
+   filters.equal type, :type_id
+   
+   Generates: SELECT * FROM people WHERE (type_id = 1)
+
+Is very beautifull when you whant to add multiple conditions if other (conditions) are verified like:
+   
+   filters = Filter.new
+   filters.great params[:type][:id], :type_id unless params[:type][:id].blank?
+   filters.equal params[:model][:id], :model_id unless params[:model][:id].blank?
+   
+   MyModel.find(:all, :conditions => filters.conditions)
+   
+Code originally created by Divoxx who I give my special Thanks
+Code edited by http://blog.lipsiasoft.com

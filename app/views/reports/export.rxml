@@ -1,0 +1,101 @@
+xml.instruct! :xml, :version=>"1.0", :encoding=>"UTF-8" 
+xml.Workbook({
+  'xmlns'      => "urn:schemas-microsoft-com:office:spreadsheet", 
+  'xmlns:o'    => "urn:schemas-microsoft-com:office:office",
+  'xmlns:x'    => "urn:schemas-microsoft-com:office:excel",    
+  'xmlns:html' => "http://www.w3.org/TR/REC-html40",
+  'xmlns:ss'   => "urn:schemas-microsoft-com:office:spreadsheet" 
+  }) do
+
+  xml.Styles do
+   xml.Style 'ss:ID' => 'Default', 'ss:Name' => 'Normal' do
+     xml.Alignment 'ss:Vertical' => 'Bottom'
+     xml.Borders
+     xml.Font 'ss:FontName' => 'Verdana'
+     xml.Interior
+     xml.NumberFormat
+     xml.Protection
+   end
+   xml.Style 'ss:ID' => 's22' do
+     xml.NumberFormat 'ss:Format' => 'General Date'
+   end
+  end
+
+  xml.Worksheet 'ss:Name' => 'Blahblah' do
+    xml.Table do
+
+      # Header
+      xml.Row do
+        xml.Cell do
+          xml.Data "Cell_id", 'ss:Type' => 'String'
+        end
+       xml.Cell do
+          xml.Data "Cell_Name", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Created_on", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Action", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "User", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "IP_ADDR", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Result", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Reason", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Duration", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Comment", 'ss:Type' => 'String'
+        end
+
+      end
+
+      # Rows
+      for record in @records
+        xml.Row do
+          xml.Cell do
+            xml.Data record.cell_id, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.cell.name, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.created_on, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.action, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.user.name, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.ip_addr, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.result, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.reason, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.duration, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.comment, 'ss:Type' => 'String'
+          end
+        end
+      end
+
+    end
+  end
+
+end

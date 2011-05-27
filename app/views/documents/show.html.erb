@@ -1,0 +1,20 @@
+<p>
+  <b>Filename:</b>
+  <%=h @document.filename %>
+</p>
+<p>
+  <b>Contains:</b>
+  <%=h @document.comments %>
+</p>
+
+<p>
+  <b>Uploaded by:</b>
+  <%=h @document.user.name %>
+</p>
+
+<p>
+  <b>Created at:</b>
+  <%= @document.created_at %>
+</p>
+
+<%= link_to 'Back', documents_path %>

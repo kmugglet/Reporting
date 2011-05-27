@@ -1,0 +1,19 @@
+<h1>New import</h1>
+
+<% form_for(@import, :html => {:multipart => true}) do |f| %>
+  <%= f.error_messages %>
+
+    <% f.fields_for :documents do |a| %>
+        <%= a.label :uploaded_data %>
+        <%= a.file_field :uploaded_data %>      <br>
+    <% end %>
+
+  <p>
+    <%= submit_tag('Import Optus Milestones') %>
+    <%= submit_tag('Import VHA Milestones') %>
+    <%= submit_tag('Import Transmission Data') %>
+
+  </p>
+<% end %>
+
+<%= link_to 'Back', imports_path %>

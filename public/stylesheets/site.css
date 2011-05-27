@@ -1,0 +1,146 @@
+body {
+    font-family: sans-serif;
+    font-size: 8pt;
+    background: white;
+    margin: 0;
+    /* text-align: center; */
+}
+form {
+    display: inline;
+}
+
+button {
+    font-family: sans-serif;
+    font-size: 14pt;
+    color: purple;
+    border-width:  2px 2px 2px 2px;
+    padding: 0.25em;
+    border-color:  purple;
+    border-style:  solid;
+}
+
+button:hover
+{
+    color :red;
+}
+
+legend {
+    font-family: sans-serif;
+    font-size: 8pt;
+    background-color: purple;
+    color: white;
+    padding: 0.25em;
+}
+#whole_page {
+    width: 95%;
+    margin: auto;
+    padding: 0;
+    text-align: left;
+    border-width:  0 1px 1px 1px;
+    border-color:  black;
+    border-style:  solid;
+}
+#header {
+    color: white;
+    background: purple; /* No "ruby" defined in HTML color names! */
+    font-size: 32pt;
+    padding: 0.25em;
+    margin-bottom: 0;
+}
+#nav {
+    color: black;
+    font-size: 10pt;
+    font-weight: bold;
+    background: #ccc;
+    padding: 1em;
+}
+#nav a, #nav a:visited {
+    color: purple;
+    text-decoration: none;
+}
+#nav a:hover {
+    border-bottom: 2px dotted purple;
+}
+#content {
+    height: 100%;
+    background:  white;
+    padding: 1em;
+}
+#content h1 {
+    font-size: 18pt;
+}
+#content table {
+    font-size :8pt;
+}
+#content center {
+    font-size :8pt;
+    color: purple;
+}
+#content td {
+    text-align: left;
+}
+#content a, #content a:visited {
+    color: purple;
+    text-decoration: none;
+    font-size :8pt;
+}
+#content a:hover {
+    color: white;
+    background :purple;
+}
+#heading table {
+    font-size:larger;
+    font-family:Tahoma;
+}
+.fieldWithErrors {
+    padding: 2px;
+    background-color: red;
+    display: table;
+}
+#errorExplanation {
+    width: 400px;
+    border: 2px solid red;
+    padding: 7px;
+    padding-bottom: 12px;
+    margin-bottom: 20px;
+    background-color: #f0f0f0;
+}
+#errorExplanation h2 {
+    text-align: left;
+    font-weight: bold;
+    padding: 5px 5px 5px 15px;
+    font-size: 12px;
+    margin: -7px;
+    background-color: #c00;
+    color: #fff;
+}
+#errorExplanation p {
+    color: #333;
+    margin-bottom: 0;
+    padding: 5px;
+}
+#errorExplanation ul li {
+    font-size: 12px;
+    list-style: square;
+}
+#notice {
+    width: 400px;
+    border: 2px solid green;
+    padding: 7px;
+    padding-bottom: 12px;
+    margin-bottom: 20px;
+    color: #004400;
+    font-size: 16pt;
+    background-color: #aaffaa;
+}
+#error {
+    width: 400px;
+    border: 2px solid red;
+    padding: 7px;
+    padding-bottom: 12px;
+    margin-bottom: 20px;
+    color: #440000;
+    font-size: 16pt;
+    background-color: #ff5555;
+}
+

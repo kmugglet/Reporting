@@ -1,0 +1,26 @@
+<h1>Listing milestone_imports</h1>
+
+<table>
+  <tr>
+    <th>Node</th>
+    <th>Milestone</th>
+    <th>Pfa</th>
+    <th>Filename</th>
+  </tr>
+
+<% @milestone_imports.each do |milestone_import| %>
+  <tr>
+    <td><%=h milestone_import.node_id %></td>
+    <td><%=h milestone_import.milestone_id %></td>
+    <td><%=h milestone_import.pfa %></td>
+    <td><%=h milestone_import.filename %></td>
+    <td><%= link_to 'Show', milestone_import %></td>
+    <td><%= link_to 'Edit', edit_milestone_import_path(milestone_import) %></td>
+    <td><%= link_to 'Destroy', milestone_import, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New milestone_import', new_milestone_import_path %>

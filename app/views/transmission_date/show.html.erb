@@ -1,0 +1,24 @@
+<div id="content">
+<table id='heading'>
+  <tr>
+    <td><b>JV Site ID</b></td>
+    <td><%= @site.jv_site %></td>
+    <td><b>Site Name</b></td>
+    <td><%= @site.name %></td>
+  </tr>
+  <tr>
+    <td><b>State</b></td>
+    <td><%= @site.state.abbr %></td>
+    <td><b>Area</b></td>
+    <td><%= @site.area.name %></td>
+  </tr>
+  <tr>
+    <td><b>Build Responsibility</b></td>
+    <td><%= @site.build_responsibility %></td>
+    <td><b>Macro, IBC or Repeater</b></td>
+    <td><%= @site.macro_type.name %></td>
+  </tr>
+  <br>
+</table>
+  <%= render :controller => 'transmission', :partial => 'transmission_show_requests' %>
+</div>

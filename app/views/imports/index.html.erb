@@ -1,0 +1,29 @@
+<h1>Listing imports</h1>
+
+<table>
+  <tr>
+    <th>Type</th>
+    <th>User</th>
+    <th>Date/Time</th>
+  </tr>
+
+<% @imports.reverse.each do |import| %>
+  <tr>
+	<% d = Document.first(:conditions => ['import_id = ?', import.id]) %>
+	<% f = "00000000#{d.id}" %>
+	<% fd = f[-8..-1] %>
+
+	<% p = "/documents/#{fd[0..3]}/#{fd[4..7]}/#{d.filename}" %>
+    <td><%= link_to d.filename, "#{p}" %></td>
+    <td><%=h import.user.name %></td>
+    <td><%=h import.created_at %></td>
+    <td><%= link_to 'Show', import %></td>
+    <td><%= link_to 'Edit', edit_import_path(import) %></td>
+    <td><%= link_to 'Destroy', import, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New import', new_import_path %>

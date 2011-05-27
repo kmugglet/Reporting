@@ -1,0 +1,24 @@
+<h1>Editing user_report</h1>
+
+<% form_for(@user_report) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :user_id %><br />
+    <%= f.text_field :user_id %>
+  </p>
+  <p>
+    <%= f.label :report_id %><br />
+    <%= f.text_field :report_id %>
+  </p>
+  <p>
+    <%= f.label :active %><br />
+    <%= f.check_box :active %>
+  </p>
+  <p>
+    <%= f.submit 'Update' %>
+  </p>
+<% end %>
+
+<%= link_to 'Show', @user_report %> |
+<%= link_to 'Back', user_reports_path %>

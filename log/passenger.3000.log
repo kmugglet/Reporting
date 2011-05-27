@@ -1,0 +1,33 @@
+[ pid=24712 thr=-608163618 file=utils.rb:176 time=2011-05-25 16:59:45.190 ]: *** Exception RuntimeError in PhusionPassenger::ClassicRails::ApplicationSpawner (no such file to load -- active_record) (process 24712, thread #<Thread:0xb78051bc>):
+	from /home/keith/Dropbox/JV/Reports/Software/Reporting/vendor/rails/railties/lib/initializer.rb:271:in `require_frameworks'
+	from /home/keith/Dropbox/JV/Reports/Software/Reporting/vendor/rails/railties/lib/initializer.rb:134:in `process'
+	from /home/keith/Dropbox/JV/Reports/Software/Reporting/vendor/rails/railties/lib/initializer.rb:113:in `send'
+	from /home/keith/Dropbox/JV/Reports/Software/Reporting/vendor/rails/railties/lib/initializer.rb:113:in `run'
+	from /home/keith/Dropbox/JV/Reports/Software/Reporting/config/environment.rb:9
+	from /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+	from /usr/lib/ruby/1.8/rubygems/custom_require.rb:31:in `require'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/classic_rails/application_spawner.rb:222:in `preload_application'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/classic_rails/application_spawner.rb:181:in `initialize_server'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/utils.rb:572:in `report_app_init_status'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/classic_rails/application_spawner.rb:174:in `initialize_server'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/abstract_server.rb:204:in `start_synchronously'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/abstract_server.rb:180:in `start'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/classic_rails/application_spawner.rb:149:in `start'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/spawn_manager.rb:219:in `spawn_rails_application'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/abstract_server_collection.rb:132:in `lookup_or_add'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/spawn_manager.rb:214:in `spawn_rails_application'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/abstract_server_collection.rb:82:in `synchronize'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/abstract_server_collection.rb:79:in `synchronize'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/spawn_manager.rb:213:in `spawn_rails_application'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/spawn_manager.rb:132:in `spawn_application'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/spawn_manager.rb:275:in `handle_spawn_application'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/abstract_server.rb:357:in `__send__'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/abstract_server.rb:357:in `server_main_loop'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/lib/phusion_passenger/abstract_server.rb:206:in `start_synchronously'
+	from /home/keith/.passenger/standalone/3.0.7-x86-ruby1.8.7-linux-gcc4.4.3-1002/support/helper-scripts/passenger-spawn-server:99
+[ pid=24710 thr=3069832048 file=ext/nginx/HelperAgent.cpp:584 time=2011-05-25 16:59:45.310 ]: Uncaught exception in PassengerServer client thread:
+   exception: write() failed: Broken pipe (32)
+   backtrace:
+     in 'void Client::handleRequest(Passenger::FileDescriptor&)' (HelperAgent.cpp:479)
+     in 'void Client::threadMain()' (HelperAgent.cpp:603)
+

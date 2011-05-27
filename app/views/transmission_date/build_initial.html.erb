@@ -1,0 +1,57 @@
+<% form_for :transmission_date, @new_request, :url => {:action=>'save_initial', :id => @new_request.id} do |f| %>
+    <table border='1'>
+      <%= f.hidden_field :Invoice_Party %>
+      <%= f.hidden_field :tx_source_programme_id %>
+      <%= f.hidden_field :operator_id %>
+      <%= f.hidden_field :Split_No %>
+      <%= f.hidden_field :Request_No %>
+      <%= f.hidden_field :Active_Node_Owner %>
+      <%= f.hidden_field :Existing_Capacity %>
+      <%= f.hidden_field :link_technology_id %>
+      <tr>
+        <td>Site ID</td>
+        <td>Node Number</td>
+        <td>ATM or IP</td>
+        <td>Current Capacity</td>
+        <td>New/Additional Capacity</td>
+        <td colspan="2">Remarks</td>
+      </tr>
+      <tr>
+        <td><%= @jv_site.jv_site %></td>
+        <td>
+          <%= select("transmission_date", "node_id", @nodes.collect { |p| [p.node_number.to_s + '-' + p.node_owner, p.id] }, {:prompt => 'Select Node Number'}) %>
+        </td>
+        <td>
+          <%= select("transmission_date", "link_technology_id", LinkTechnology.all.collect { |p| [p.name, p.id] }, {:prompt => 'Select Technology'}) %>
+        </td>
+        <td>0</td>
+        <td><%= text_field :transmission_date, :Required_Capacity, :size => "3" %></td>
+        <td colspan="2"><%= text_field :transmission_date, :Remarks, :size => "25" %></td>
+      </tr>
+      <tr>
+        <td><label for='transmission_date_date_raised'>Date Raised</label>
+        </td>
+        <td><label for='transmission_date_date_required_by'>Date Required By</label>
+        </td>
+        <td><label for='transmission_date_S7_Forecast'>S7 Forecast</label>
+        </td>
+        <td><label for='transmission_date_S8_Forecast'>S8 Forecast</label>
+      </tr>
+      <tr>
+        <td>
+          <%= f.calendar_date_select 'date_raised' ,:format => 'lazy' %>
+        </td>
+        <td>
+          <%= f.calendar_date_select 'date_required_by' ,:format => 'lazy' %>
+        </td>
+        <td>
+          <%= f.calendar_date_select 'S7_Forecast' ,:format => 'lazy' %>
+        </td>
+        <td>
+          <%= f.calendar_date_select 'S8_Forecast' ,:format => 'lazy' %>
+        </td>
+      </tr>
+    </table>
+    <%= f.submit 'Save', :id => 'atm' %>
+<% end %>
+

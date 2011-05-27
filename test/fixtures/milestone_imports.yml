@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  node_id: 1
+  milestone_id: 1
+  pfa: MyText
+  filename: MyText
+
+two:
+  node_id: 1
+  milestone_id: 1
+  pfa: MyText
+  filename: MyText

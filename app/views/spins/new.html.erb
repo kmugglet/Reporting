@@ -1,0 +1,35 @@
+<% content_for :title, "New SPIN" %>
+
+<% form_for(@spin, :html => {:multipart => true}, :url => {:action =>'create_spin'}) do |f| -%>
+    <p>
+      <%= @spin.spinnumber %>
+    </p>
+    <p>
+      <label for="spin_Name">
+        Spin Title:
+      </label>
+      <%= text_field 'spin', 'Name' %>  e.g. Add new site in Sydney CBD or Upgrade nodes at JC9829
+    </p>
+    <p>
+      <label for="spin_Descr">
+        Description:
+      </label>
+      <%= text_field 'spin', 'Descr' %> e.g. Additional node is required to provide infill etc etc etc
+    </p>
+    <p>
+      <%= label(:spin, :type_id, "New or Existing Site") %>
+      <%= select("spin", "type_id", SpinChangeType.all.collect { |p| [p.ChangeType, p.id] }, {:prompt => 'Select Spin Type'}) %>
+    </p>
+    <p>
+      <%= label(:spin, :reason_id, "Enter work type") %>
+      <%= select("spin", "reason_id", SpinChangeReason.all.collect { |p| [p.ChangeReason, p.id] }, {:prompt => 'Select Reason'}) %>
+    </p>
+    <p>
+      <%= label 'spin', 'initiator' %>
+      <%= select("spin", "initiator", Spin.find_by_sql("SELECT id, CONCAT(full_name, ' for ', company)AS initiator FROM users where spin_access = 1 and company <> 'NSN' ORDER BY initiator").collect { |p| [p.initiator.to_s, p.id] }, {:prompt => 'Select Initiator'})  %>
+      <br><br><br>
+      <%= submit_tag "Create Spin", :action => 'create_spin' %>
+<% end %>
+
+
+<p><%= link_to "Back to home", :action => 'index' %></p>

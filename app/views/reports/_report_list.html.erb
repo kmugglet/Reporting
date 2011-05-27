@@ -1,0 +1,68 @@
+<table border="1" width="75%" align="center">
+  <tr>
+    <th>MSL</th>
+    <th>Recharge Report</th>
+    <th>Transmission Capacity Report</th>
+    <th>Spin Report</th>
+  </tr>
+  <tr>
+    <td colspan="6"><font color='green'><b>Draft Reports - Generated daily</b></font> </td>
+  </tr>
+  <tr>
+    <td><%= link_to 'Draft MSL', '/reports/msl/msl.xls' %></td>
+    <td><%= link_to 'Draft Recharge Report', '/reports/recharge/recharge_report.xls' %></td>
+    <td><%= link_to 'Draft Transmission Capacity Report', '/reports/finance/monthly_capacity.xls' %></td>
+    <td><%= link_to 'Draft Spin Report', '/reports/spins/spin_report.xls' %></td>
+  </tr>
+  <tr>
+    <td colspan="6"><font color='blue'><b>Historical Reports (newest at top)</b></font></td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <% @msl_files.each do |f| %>
+            <tr>
+              <td>
+                <%= link_to f, '/reports/msl/'+f %>
+              </td>
+            </tr>
+        <% end %>
+      </table>
+    </td>
+    <td>
+      <table>
+        <% @recharge_files.each do |f| %>
+            <tr>
+              <td>
+                <%= link_to f, '/reports/recharge/'+f %>
+              </td>
+            </tr>
+        <% end %>
+      </table>
+    </td>
+    <td>
+      <table>
+        <% @transmission_files.each do |f| %>
+            <tr>
+              <td>
+                <%= link_to f, '/reports/finance/'+f %>
+              </td>
+            </tr>
+        <% end %>
+      </table>
+    </td>
+    <td>
+      <table>
+        <% @spin_files.each do |f| %>
+            <tr>
+              <td>
+                <%= link_to f, '/reports/spins/'+f %>
+              </td>
+            </tr>
+        <% end %>
+      </table>
+    </td>
+  </tr>
+</table>
+
+

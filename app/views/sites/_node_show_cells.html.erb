@@ -1,0 +1,27 @@
+<%= stylesheet_link_tag 'css_tree' %>
+<% @nodes = @site.nodes %>
+<% unless @nodes.empty? %>
+    <ul id="master">
+      <li><input type="checkbox" id="Site" checked><label for="Site">WBTS Info</label>
+        <% @nodes.each do |n| %>
+            <% @cells = n.cells %>
+            <ul>
+              <li><input type="checkbox" id="<%= n.wbts %>"><label for="<%= n.wbts %>">
+                WBTS:<%= n.wbts %> - NodeNo:<%= n.node_number %> - Owner:<%= n.node_owner %> - Type:<%= n.node_type.name %>
+              </label>
+                <% unless @cells.empty? %>
+                    <ul>
+                      <% @cells.each do |c| %>
+                          <li>
+                            CellNo:<%= c.cell_number %> - CellID:<%= c.cellid %> - Op:<%= c.cell_operator %> - Freq:<%= c.UARFCN.freq %>
+                          </li>
+                      <% end %>
+                    </ul>
+                <% end %>
+              </li>
+            </ul>
+        <% end %>
+      </li>
+    </ul>
+<% end %>
+

@@ -1,0 +1,1776 @@
+Tue May 24 13:54:19 +1000 2011
+/home/keith/Reporting/public/documents/0000/0003/VF_IBC_JV_Only_20110524.xls
+S04 Planned exists, ignoring changes for JM9471 node_id:2473
+S01 Planned exists, ignoring changes for JS9663 node_id:5227
+S04 Planned exists, ignoring changes for JM9451 node_id:2453
+S04 Planned exists, ignoring changes for JC9047 node_id:1498
+S02 Planned exists, ignoring changes for JS9670 node_id:5240
+S01 Planned exists, ignoring changes for JM9452 node_id:2455
+S02 Planned exists, ignoring changes for JM9452 node_id:2455
+S02 Planned exists, ignoring changes for JS9666 node_id:5232
+S01 Planned exists, ignoring changes for JS9628 node_id:5196
+S02 Planned exists, ignoring changes for JM9465 node_id:2470
+S02 Planned exists, ignoring changes for JS9671 node_id:5241
+S04 Planned exists, ignoring changes for JS9671 node_id:5241
+S04 Planned exists, ignoring changes for JB9382 node_id:1087
+S02 Planned exists, ignoring changes for JB9388 node_id:1094
+S04 Planned exists, ignoring changes for JB9388 node_id:1094
+S01 Planned exists, ignoring changes for JB9388 node_id:1094
+Cannot find matching node, milestone is MS10, import file says JS9015, original node should be true
+Cannot find matching node, milestone is MS11, import file says JS9015, original node should be true
+S01 Planned exists, ignoring changes for JM9471 node_id:2473
+S02 Planned exists, ignoring changes for JM9471 node_id:2473
+S04 Planned exists, ignoring changes for JS9663 node_id:5227
+S01 Planned exists, ignoring changes for JM9451 node_id:2453
+S01 Planned exists, ignoring changes for JS9668 node_id:5237
+S04 Planned exists, ignoring changes for JC9049 node_id:1502
+S02 Planned exists, ignoring changes for JC9047 node_id:1498
+S04 Planned exists, ignoring changes for JS9670 node_id:5240
+S04 Planned exists, ignoring changes for JS9660 node_id:5222
+S04 Planned exists, ignoring changes for JS9667 node_id:5235
+S04 Planned exists, ignoring changes for JM9452 node_id:2455
+S04 Planned exists, ignoring changes for JC9046 node_id:1496
+S01 Planned exists, ignoring changes for JS9666 node_id:5232
+S04 Planned exists, ignoring changes for JS9628 node_id:5196
+S04 Planned exists, ignoring changes for JM9468 node_id:2472
+S01 Planned exists, ignoring changes for JM9465 node_id:2470
+S04 Planned exists, ignoring changes for JS9693 node_id:5267
+S04 Planned exists, ignoring changes for JS9654 node_id:5212
+S04 Planned exists, ignoring changes for JM9455 node_id:2460
+S02 Planned exists, ignoring changes for JS9697 node_id:5271
+S04 Planned exists, ignoring changes for JS9697 node_id:5271
+S01 Planned exists, ignoring changes for JS9698 node_id:5273
+S01 Planned exists, ignoring changes for JB9382 node_id:1087
+Cannot find matching node, milestone is MS18, import file says JS9015, original node should be true
+Cannot find matching node, milestone is MS05, import file says JS9015, original node should be true
+S01 Planned exists, ignoring changes for JC9049 node_id:1502
+S01 Planned exists, ignoring changes for JC9047 node_id:1498
+S01 Planned exists, ignoring changes for JS9657 node_id:5216
+S04 Planned exists, ignoring changes for JS9657 node_id:5216
+S01 Planned exists, ignoring changes for JS9670 node_id:5240
+S01 Planned exists, ignoring changes for JS9660 node_id:5222
+S01 Planned exists, ignoring changes for JS9665 node_id:5231
+S04 Planned exists, ignoring changes for JS9665 node_id:5231
+S01 Planned exists, ignoring changes for JS9667 node_id:5235
+S01 Planned exists, ignoring changes for JC9046 node_id:1496
+S04 Planned exists, ignoring changes for JS9666 node_id:5232
+S02 Planned exists, ignoring changes for JS9628 node_id:5196
+S01 Planned exists, ignoring changes for JM9468 node_id:2472
+S04 Planned exists, ignoring changes for JM9465 node_id:2470
+S01 Planned exists, ignoring changes for JS9693 node_id:5267
+S01 Planned exists, ignoring changes for JS9654 node_id:5212
+S01 Planned exists, ignoring changes for JM9455 node_id:2460
+S01 Planned exists, ignoring changes for JS9671 node_id:5241
+S01 Planned exists, ignoring changes for JS9697 node_id:5271
+S01 Planned exists, ignoring changes for JS9641 node_id:5208
+S02 Planned exists, ignoring changes for JB9382 node_id:1087
+Cannot find matching node, milestone is MS15, import file says JS9015, original node should be true
+Cannot find matching node, milestone is MS13, import file says JS9015, original node should be true
+Parsed 175 lines of input file
+Added 0 new records
+Tue May 24 13:54:48 +1000 2011
+----------------------------------------------------------------------------
+Tue May 24 13:55:55 +1000 2011
+/home/keith/Reporting/public/documents/0000/0004/VF_3G_data_20110524.xls
+S02 Planned exists, ignoring changes for JP9084 node_id:3300
+S02 Planned exists, ignoring changes for JP9059 node_id:3257
+S04 Planned exists, ignoring changes for JP9069 node_id:3275
+S04 Planned exists, ignoring changes for JP9068 node_id:3273
+S04 Planned exists, ignoring changes for JP9083 node_id:3298
+S04 Planned exists, ignoring changes for JP9079 node_id:3290
+S02 Planned exists, ignoring changes for JP9062 node_id:3263
+S04 Planned exists, ignoring changes for JP9071 node_id:3279
+S02 Planned exists, ignoring changes for JP9058 node_id:3255
+S04 Planned exists, ignoring changes for JP9034 node_id:3212
+S04 Planned exists, ignoring changes for JS9570 node_id:5100
+Cannot find matching node, milestone is MS10, import file says JA9007, original node should be true
+Cannot find matching node, milestone is MS11, import file says JA9007, original node should be true
+Cannot find matching node, milestone is MS18, import file says JA9007, original node should be true
+Cannot find matching node, milestone is MS15, import file says JA9007, original node should be true
+S04 Planned exists, ignoring changes for JS9053 node_id:4168
+S02 Planned exists, ignoring changes for JA9044 node_id:80
+S04 Planned exists, ignoring changes for JA9044 node_id:80
+S04 Planned exists, ignoring changes for JA9029 node_id:50
+S04 Planned exists, ignoring changes for JP9082 node_id:3296
+S04 Planned exists, ignoring changes for JP9060 node_id:3259
+S02 Planned exists, ignoring changes for JP9060 node_id:3259
+S04 Planned exists, ignoring changes for JP9064 node_id:3267
+S04 Planned exists, ignoring changes for JP9058 node_id:3255
+S02 Planned exists, ignoring changes for JS9586 node_id:5126
+S02 Planned exists, ignoring changes for JA9004 node_id:4
+Cannot find matching node, milestone is MS13, import file says JA9007, original node should be true
+Cannot find matching node, milestone is MS05, import file says JA9007, original node should be true
+S04 Planned exists, ignoring changes for JA9033 node_id:58
+S04 Planned exists, ignoring changes for JS9129 node_id:4312
+S02 Planned exists, ignoring changes for JA9046 node_id:85
+S04 Planned exists, ignoring changes for JA9035 node_id:62
+S04 Planned exists, ignoring changes for JA9020 node_id:33
+S02 Planned exists, ignoring changes for JA9043 node_id:78
+S04 Planned exists, ignoring changes for JA9064 node_id:105
+S04 Planned exists, ignoring changes for JA9093 node_id:147
+S04 Planned exists, ignoring changes for JA9086 node_id:134
+S04 Planned exists, ignoring changes for JA9058 node_id:100
+S04 Planned exists, ignoring changes for JA9090 node_id:141
+S02 Planned exists, ignoring changes for JA9080 node_id:125
+S04 Planned exists, ignoring changes for JA9075 node_id:119
+S02 Planned exists, ignoring changes for JA9075 node_id:119
+S02 Planned exists, ignoring changes for JA9070 node_id:111
+S07 Planned exists, ignoring changes for JA9265 node_id:417
+S07 Forecast has changed from 2011-05-20 by 12 days to 2011-06-01 for JA9265, node_id: 417
+S04 Planned exists, ignoring changes for JA9094 node_id:149
+S02 Planned exists, ignoring changes for JA9094 node_id:149
+S04 Planned exists, ignoring changes for JA9072 node_id:113
+S04 Planned exists, ignoring changes for JA9092 node_id:145
+S02 Planned exists, ignoring changes for JA9078 node_id:121
+S04 Planned exists, ignoring changes for JA9073 node_id:115
+S04 Planned exists, ignoring changes for JA9045 node_id:82
+S04 Planned exists, ignoring changes for JA9046 node_id:85
+S04 Planned exists, ignoring changes for JA9014 node_id:22
+S04 Planned exists, ignoring changes for JA9037 node_id:66
+S04 Planned exists, ignoring changes for JA9041 node_id:74
+S04 Planned exists, ignoring changes for JA9018 node_id:29
+S02 Planned exists, ignoring changes for JA9026 node_id:44
+S04 Planned exists, ignoring changes for JA9031 node_id:54
+S02 Planned exists, ignoring changes for JA9064 node_id:105
+S04 Planned exists, ignoring changes for JA9056 node_id:96
+S02 Planned exists, ignoring changes for JA9056 node_id:96
+S04 Planned exists, ignoring changes for JA9080 node_id:125
+S04 Planned exists, ignoring changes for JA9069 node_id:109
+S05 Forecast has changed from 2011-05-20 by 12 days to 2011-06-01 for JA9265, node_id: 417
+S02 Planned exists, ignoring changes for JA9072 node_id:113
+S01 Planned exists, ignoring changes for JS9913 node_id:5555
+S04 Planned exists, ignoring changes for JS9491 node_id:4964
+S04 Planned exists, ignoring changes for JS9200 node_id:4437
+S04 Planned exists, ignoring changes for JS9194 node_id:4428
+S01 Planned exists, ignoring changes for JM9018 node_id:1680
+S02 Planned exists, ignoring changes for JM9058 node_id:1759
+S04 Planned exists, ignoring changes for JS9406 node_id:4801
+S02 Planned exists, ignoring changes for JS9211 node_id:4456
+S01 Planned exists, ignoring changes for JS9211 node_id:4456
+S04 Planned exists, ignoring changes for JP9165 node_id:3452
+S02 Planned exists, ignoring changes for JS9776 node_id:5387
+S04 Planned exists, ignoring changes for JS9776 node_id:5387
+S04 Planned exists, ignoring changes for JS9778 node_id:5391
+S02 Planned exists, ignoring changes for JS9786 node_id:5403
+S04 Planned exists, ignoring changes for JS9789 node_id:5409
+S02 Planned exists, ignoring changes for JS9794 node_id:5419
+S04 Planned exists, ignoring changes for JS9794 node_id:5419
+S04 Planned exists, ignoring changes for JS9007 node_id:4078
+S04 Planned exists, ignoring changes for JP9084 node_id:3300
+S04 Planned exists, ignoring changes for JP9059 node_id:3257
+S04 Planned exists, ignoring changes for JP9080 node_id:3292
+S02 Planned exists, ignoring changes for JP9068 node_id:3273
+S02 Planned exists, ignoring changes for JP9083 node_id:3298
+S02 Planned exists, ignoring changes for JP9079 node_id:3290
+S04 Planned exists, ignoring changes for JP9062 node_id:3263
+S01 Planned exists, ignoring changes for JP9062 node_id:3263
+S04 Planned exists, ignoring changes for JA9016 node_id:26
+S04 Planned exists, ignoring changes for JS9586 node_id:5126
+S01 Planned exists, ignoring changes for JS9586 node_id:5126
+S04 Planned exists, ignoring changes for JA9004 node_id:4
+S02 Planned exists, ignoring changes for JS9129 node_id:4312
+S04 Planned exists, ignoring changes for JA9022 node_id:35
+S04 Planned exists, ignoring changes for JA9028 node_id:48
+S02 Planned exists, ignoring changes for JA9088 node_id:137
+S02 Planned exists, ignoring changes for JA9074 node_id:117
+S04 Planned exists, ignoring changes for JA9078 node_id:121
+S02 Planned exists, ignoring changes for JS9913 node_id:5555
+S02 Planned exists, ignoring changes for JS9491 node_id:4964
+S02 Planned exists, ignoring changes for JS9200 node_id:4437
+S02 Planned exists, ignoring changes for JS9074 node_id:4208
+S04 Planned exists, ignoring changes for JS9256 node_id:4530
+S04 Planned exists, ignoring changes for JS9533 node_id:5036
+S02 Planned exists, ignoring changes for JS9533 node_id:5036
+S04 Planned exists, ignoring changes for JM9606 node_id:2701
+S04 Planned exists, ignoring changes for JS9786 node_id:5403
+S02 Planned exists, ignoring changes for JS9782 node_id:5395
+S04 Planned exists, ignoring changes for JS9782 node_id:5395
+S04 Planned exists, ignoring changes for JS9791 node_id:5413
+S02 Planned exists, ignoring changes for JS9095 node_id:4249
+S04 Planned exists, ignoring changes for JS9788 node_id:5407
+S02 Planned exists, ignoring changes for JS9774 node_id:5383
+S04 Planned exists, ignoring changes for JS9773 node_id:5381
+S02 Planned exists, ignoring changes for JS9787 node_id:5405
+S04 Planned exists, ignoring changes for JS9787 node_id:5405
+S04 Planned exists, ignoring changes for JM9605 node_id:2698
+S04 Planned exists, ignoring changes for JM9604 node_id:2696
+S04 Planned exists, ignoring changes for JM9602 node_id:2692
+S02 Planned exists, ignoring changes for JM9601 node_id:2690
+S04 Planned exists, ignoring changes for JM9599 node_id:2686
+S02 Planned exists, ignoring changes for JM9595 node_id:2678
+S02 Planned exists, ignoring changes for JM9592 node_id:2673
+S02 Planned exists, ignoring changes for JM9568 node_id:2629
+S04 Planned exists, ignoring changes for JM9568 node_id:2629
+S04 Planned exists, ignoring changes for JM9567 node_id:2627
+S02 Planned exists, ignoring changes for JM9566 node_id:2625
+S02 Planned exists, ignoring changes for JM9564 node_id:2622
+S04 Planned exists, ignoring changes for JS9792 node_id:5415
+S02 Planned exists, ignoring changes for JA9155 node_id:270
+S02 Planned exists, ignoring changes for JS9070 node_id:4200
+S01 Planned exists, ignoring changes for JS9773 node_id:5381
+S02 Planned exists, ignoring changes for JM9605 node_id:2698
+S02 Planned exists, ignoring changes for JM9602 node_id:2692
+S04 Planned exists, ignoring changes for JM9592 node_id:2673
+S02 Planned exists, ignoring changes for JM9577 node_id:2647
+S04 Planned exists, ignoring changes for JM9577 node_id:2647
+S04 Planned exists, ignoring changes for JM9573 node_id:2639
+S04 Planned exists, ignoring changes for JM9565 node_id:2623
+S04 Planned exists, ignoring changes for JM9564 node_id:2622
+S02 Planned exists, ignoring changes for JM9562 node_id:2618
+S04 Planned exists, ignoring changes for JM9561 node_id:2616
+S02 Planned exists, ignoring changes for JS9792 node_id:5415
+S02 Planned exists, ignoring changes for JS9733 node_id:5320
+S04 Planned exists, ignoring changes for JS9733 node_id:5320
+S04 Planned exists, ignoring changes for JA9155 node_id:270
+S04 Planned exists, ignoring changes for JS9190 node_id:4422
+S02 Planned exists, ignoring changes for JS9226 node_id:4482
+S04 Planned exists, ignoring changes for JS9280 node_id:4565
+S04 Planned exists, ignoring changes for JS9005 node_id:4074
+S02 Planned exists, ignoring changes for JB9309 node_id:951
+S04 Planned exists, ignoring changes for JB9310 node_id:953
+S02 Planned exists, ignoring changes for JB9317 node_id:964
+S04 Planned exists, ignoring changes for JB9334 node_id:997
+S01 Planned exists, ignoring changes for JB9312 node_id:957
+S04 Planned exists, ignoring changes for JB9321 node_id:972
+S01 Planned exists, ignoring changes for JB9348 node_id:1025
+S02 Planned exists, ignoring changes for JB9348 node_id:1025
+S02 Planned exists, ignoring changes for JB9360 node_id:1050
+S04 Planned exists, ignoring changes for JB9360 node_id:1050
+S02 Planned exists, ignoring changes for JB9322 node_id:974
+S01 Planned exists, ignoring changes for JB9363 node_id:1057
+S02 Planned exists, ignoring changes for JB9365 node_id:1061
+S02 Planned exists, ignoring changes for JB9362 node_id:1054
+S04 Planned exists, ignoring changes for JB9338 node_id:1005
+S01 Planned exists, ignoring changes for JS9542 node_id:5053
+S04 Planned exists, ignoring changes for JS9131 node_id:4317
+S01 Planned exists, ignoring changes for JS9338 node_id:4668
+S04 Planned exists, ignoring changes for JS9338 node_id:4668
+S01 Planned exists, ignoring changes for JB9364 node_id:1059
+S02 Planned exists, ignoring changes for JB9341 node_id:1011
+S04 Planned exists, ignoring changes for JB9341 node_id:1011
+S02 Planned exists, ignoring changes for JP9170 node_id:3459
+S04 Planned exists, ignoring changes for JP9170 node_id:3459
+S04 Planned exists, ignoring changes for JS9784 node_id:5399
+S04 Planned exists, ignoring changes for JB9374 node_id:1076
+S04 Planned exists, ignoring changes for JA9170 node_id:295
+S04 Planned exists, ignoring changes for JA9171 node_id:297
+S04 Planned exists, ignoring changes for JA9181 node_id:317
+S02 Planned exists, ignoring changes for JP9177 node_id:3466
+S04 Planned exists, ignoring changes for JP9178 node_id:3468
+S04 Planned exists, ignoring changes for JS9226 node_id:4482
+S02 Planned exists, ignoring changes for JB9310 node_id:953
+S02 Planned exists, ignoring changes for JB9312 node_id:957
+S04 Planned exists, ignoring changes for JB9312 node_id:957
+S02 Planned exists, ignoring changes for JB9320 node_id:970
+S04 Planned exists, ignoring changes for JB9320 node_id:970
+S02 Planned exists, ignoring changes for JB9324 node_id:978
+S04 Planned exists, ignoring changes for JB9348 node_id:1025
+S01 Planned exists, ignoring changes for JB9347 node_id:1023
+S02 Planned exists, ignoring changes for JB9347 node_id:1023
+S02 Planned exists, ignoring changes for JB9325 node_id:980
+S04 Planned exists, ignoring changes for JB9322 node_id:974
+S04 Planned exists, ignoring changes for JB9316 node_id:962
+S01 Planned exists, ignoring changes for JB9345 node_id:1019
+S04 Planned exists, ignoring changes for JB9365 node_id:1061
+S01 Planned exists, ignoring changes for JB9366 node_id:1063
+S01 Planned exists, ignoring changes for JB9362 node_id:1054
+S04 Planned exists, ignoring changes for JB9362 node_id:1054
+S04 Planned exists, ignoring changes for JB9333 node_id:995
+S02 Planned exists, ignoring changes for JB9355 node_id:1040
+S04 Planned exists, ignoring changes for JB9354 node_id:1038
+S02 Planned exists, ignoring changes for JB9357 node_id:1044
+S04 Planned exists, ignoring changes for JB9357 node_id:1044
+S02 Planned exists, ignoring changes for JB9350 node_id:1029
+S02 Planned exists, ignoring changes for JS9784 node_id:5399
+S04 Planned exists, ignoring changes for JS9833 node_id:5472
+S02 Planned exists, ignoring changes for JS9822 node_id:5458
+S04 Planned exists, ignoring changes for JS9821 node_id:5456
+S04 Planned exists, ignoring changes for JS9820 node_id:5454
+S04 Planned exists, ignoring changes for JS9812 node_id:5442
+S02 Planned exists, ignoring changes for JS9808 node_id:5434
+S04 Planned exists, ignoring changes for JB9248 node_id:855
+S02 Planned exists, ignoring changes for JA9181 node_id:317
+S04 Planned exists, ignoring changes for JP9177 node_id:3466
+S02 Planned exists, ignoring changes for JP9178 node_id:3468
+S04 Planned exists, ignoring changes for JA9173 node_id:301
+S02 Planned exists, ignoring changes for JA9173 node_id:301
+S01 Planned exists, ignoring changes for JA9173 node_id:301
+S01 Planned exists, ignoring changes for JA9183 node_id:321
+S04 Planned exists, ignoring changes for JA9184 node_id:323
+S04 Planned exists, ignoring changes for JS9184 node_id:4412
+S01 Planned exists, ignoring changes for JM9016 node_id:1676
+S01 Planned exists, ignoring changes for JM9056 node_id:1753
+S01 Planned exists, ignoring changes for JA9185 node_id:325
+S07 Forecast has changed from 2011-06-24 by 20 days to 2011-07-14 for JA9186, node_id: 327
+S01 Planned exists, ignoring changes for JA9186 node_id:327
+Cannot find matching node, milestone is MS10, import file says JA9187, original node should be true
+Cannot find matching node, milestone is MS11, import file says JA9187, original node should be true
+S02 Planned exists, ignoring changes for JS9897 node_id:5531
+S01 Planned exists, ignoring changes for JS9897 node_id:5531
+S01 Planned exists, ignoring changes for JS9900 node_id:5537
+S02 Planned exists, ignoring changes for JS9901 node_id:5539
+S01 Planned exists, ignoring changes for JS9901 node_id:5539
+S01 Planned exists, ignoring changes for JP9186 node_id:3485
+S02 Planned exists, ignoring changes for JM9641 node_id:2739
+S04 Planned exists, ignoring changes for JM9641 node_id:2739
+S01 Planned exists, ignoring changes for JM9078 node_id:1793
+S04 Planned exists, ignoring changes for JP9187 node_id:3487
+S02 Planned exists, ignoring changes for JP9187 node_id:3487
+S04 Planned exists, ignoring changes for JP9188 node_id:3489
+S04 Planned exists, ignoring changes for JP9200 node_id:3511
+S04 Planned exists, ignoring changes for JP9210 node_id:3528
+S01 Planned exists, ignoring changes for JP9210 node_id:3528
+S02 Planned exists, ignoring changes for JP9190 node_id:3493
+S04 Planned exists, ignoring changes for JS9286 node_id:4572
+S04 Planned exists, ignoring changes for JS9263 node_id:4536
+S02 Planned exists, ignoring changes for JS9263 node_id:4536
+S01 Planned exists, ignoring changes for JS9493 node_id:4967
+S04 Planned exists, ignoring changes for JS9493 node_id:4967
+S02 Planned exists, ignoring changes for JS6012 node_id:3751
+S04 Planned exists, ignoring changes for JS6012 node_id:3751
+S02 Planned exists, ignoring changes for JM9691 node_id:2813
+S01 Planned exists, ignoring changes for JC9055 node_id:1513
+S01 Planned exists, ignoring changes for JC9060 node_id:1523
+S02 Planned exists, ignoring changes for JC9060 node_id:1523
+S04 Planned exists, ignoring changes for JC9060 node_id:1523
+S02 Planned exists, ignoring changes for JS9952 node_id:5591
+S02 Planned exists, ignoring changes for JS9965 node_id:5617
+S01 Planned exists, ignoring changes for JS9968 node_id:5623
+S04 Planned exists, ignoring changes for JS9968 node_id:5623
+S01 Planned exists, ignoring changes for JM9682 node_id:2795
+S02 Planned exists, ignoring changes for JM9682 node_id:2795
+S04 Planned exists, ignoring changes for JM9682 node_id:2795
+S01 Planned exists, ignoring changes for JM9684 node_id:2799
+S02 Planned exists, ignoring changes for JM9684 node_id:2799
+S02 Planned exists, ignoring changes for JM9703 node_id:2837
+S02 Planned exists, ignoring changes for JS9974 node_id:5633
+S01 Planned exists, ignoring changes for JS9976 node_id:5637
+S04 Planned exists, ignoring changes for JS9976 node_id:5637
+S01 Planned exists, ignoring changes for JS9977 node_id:5639
+S01 Planned exists, ignoring changes for JS9978 node_id:5641
+S01 Planned exists, ignoring changes for JS9987 node_id:5657
+S04 Planned exists, ignoring changes for JS9987 node_id:5657
+S01 Planned exists, ignoring changes for JS9993 node_id:5669
+S02 Planned exists, ignoring changes for JS9993 node_id:5669
+S04 Planned exists, ignoring changes for JS9993 node_id:5669
+S01 Planned exists, ignoring changes for JB9393 node_id:1104
+S04 Planned exists, ignoring changes for JA9183 node_id:321
+S01 Planned exists, ignoring changes for JA9184 node_id:323
+S02 Planned exists, ignoring changes for JA9185 node_id:325
+S02 Planned exists, ignoring changes for JS9184 node_id:4412
+S02 Planned exists, ignoring changes for JS9185 node_id:4414
+S01 Planned exists, ignoring changes for JM9037 node_id:1717
+S05 Forecast has changed from 2011-06-10 by 20 days to 2011-06-30 for JA9186, node_id: 327
+Cannot find matching node, milestone is MS18, import file says JA9187, original node should be true
+Cannot find matching node, milestone is MS15, import file says JA9187, original node should be true
+Cannot find matching node, milestone is MS05, import file says JA9187, original node should be true
+S04 Planned exists, ignoring changes for JS9897 node_id:5531
+S04 Planned exists, ignoring changes for JS9898 node_id:5533
+S02 Planned exists, ignoring changes for JS9898 node_id:5533
+S02 Planned exists, ignoring changes for JS9900 node_id:5537
+S02 Planned exists, ignoring changes for JM9639 node_id:2735
+S02 Planned exists, ignoring changes for JM9127 node_id:1889
+S04 Planned exists, ignoring changes for JM9423 node_id:2425
+S04 Planned exists, ignoring changes for JP9209 node_id:3526
+S01 Planned exists, ignoring changes for JP9209 node_id:3526
+S02 Planned exists, ignoring changes for JP9210 node_id:3528
+S04 Planned exists, ignoring changes for JP9190 node_id:3493
+S02 Planned exists, ignoring changes for JS9259 node_id:4531
+S02 Planned exists, ignoring changes for JS9493 node_id:4967
+S01 Planned exists, ignoring changes for JS6012 node_id:3751
+S01 Planned exists, ignoring changes for JS9928 node_id:5570
+S01 Planned exists, ignoring changes for JC9053 node_id:1509
+S04 Planned exists, ignoring changes for JC9053 node_id:1509
+S01 Planned exists, ignoring changes for JC9057 node_id:1517
+S04 Planned exists, ignoring changes for JS9952 node_id:5591
+S02 Planned exists, ignoring changes for JS9963 node_id:5613
+S01 Planned exists, ignoring changes for JS9964 node_id:5615
+S02 Planned exists, ignoring changes for JS9964 node_id:5615
+S04 Planned exists, ignoring changes for JS9965 node_id:5617
+S01 Planned exists, ignoring changes for JS9966 node_id:5619
+S02 Planned exists, ignoring changes for JS9967 node_id:5621
+S04 Planned exists, ignoring changes for JS9967 node_id:5621
+S02 Planned exists, ignoring changes for JS9968 node_id:5623
+S04 Planned exists, ignoring changes for JM9694 node_id:2819
+S04 Planned exists, ignoring changes for JM9702 node_id:2835
+S01 Planned exists, ignoring changes for JS9974 node_id:5633
+S04 Planned exists, ignoring changes for JS9974 node_id:5633
+S01 Planned exists, ignoring changes for JS9975 node_id:5635
+S02 Planned exists, ignoring changes for JS9975 node_id:5635
+S04 Planned exists, ignoring changes for JS9975 node_id:5635
+S02 Planned exists, ignoring changes for JS9978 node_id:5641
+S01 Planned exists, ignoring changes for JS9992 node_id:5667
+S04 Planned exists, ignoring changes for JS9266 node_id:4542
+S04 Planned exists, ignoring changes for JS9045 node_id:4149
+S01 Planned exists, ignoring changes for JM9711 node_id:2851
+S04 Planned exists, ignoring changes for JM9719 node_id:2867
+S01 Planned exists, ignoring changes for JP9229 node_id:3556
+S01 Planned exists, ignoring changes for JP9240 node_id:3578
+S01 Planned exists, ignoring changes for JP9241 node_id:3580
+S04 Planned exists, ignoring changes for JP9270 node_id:3637
+S04 Planned exists, ignoring changes for JP9272 node_id:3641
+S01 Planned exists, ignoring changes for JA9197 node_id:342
+S01 Planned exists, ignoring changes for JS9998 node_id:5680
+S01 Planned exists, ignoring changes for JS9953 node_id:5593
+S02 Planned exists, ignoring changes for JS9954 node_id:5595
+S01 Planned exists, ignoring changes for JS9954 node_id:5595
+S01 Planned exists, ignoring changes for JS9955 node_id:5597
+S02 Planned exists, ignoring changes for JS9956 node_id:5599
+S01 Planned exists, ignoring changes for JS9956 node_id:5599
+S04 Planned exists, ignoring changes for JM9685 node_id:2801
+S02 Forecast has changed from 2011-07-30 by -30 days to 2011-06-30 for JM9686, node_id: 2803
+S02 Planned exists, ignoring changes for JM9696 node_id:2823
+S01 Planned exists, ignoring changes for JM9696 node_id:2823
+S04 Planned exists, ignoring changes for JM9698 node_id:2827
+S04 Planned exists, ignoring changes for JA9199 node_id:346
+S04 Planned exists, ignoring changes for JA9204 node_id:356
+S02 Planned exists, ignoring changes for JA9204 node_id:356
+S01 Planned exists, ignoring changes for JA9205 node_id:358
+S04 Planned exists, ignoring changes for JA9209 node_id:366
+S02 Planned exists, ignoring changes for JP9219 node_id:3536
+S01 Planned exists, ignoring changes for JP9219 node_id:3536
+S02 Planned exists, ignoring changes for JP9222 node_id:3542
+Cannot find matching node, milestone is MS15, import file says JP9233, original node should be true
+Cannot find matching node, milestone is MS05, import file says JP9233, original node should be true
+S04 Planned exists, ignoring changes for JP9245 node_id:3588
+S04 Planned exists, ignoring changes for JP9273 node_id:3643
+S02 Planned exists, ignoring changes for JP9273 node_id:3643
+S01 Planned exists, ignoring changes for JP9273 node_id:3643
+S04 Planned exists, ignoring changes for JS9981 node_id:5647
+S04 Planned exists, ignoring changes for JS9988 node_id:5659
+S04 Planned exists, ignoring changes for JC9059 node_id:1521
+S01 Planned exists, ignoring changes for JC9059 node_id:1521
+S04 Planned exists, ignoring changes for JS6005 node_id:3746
+S04 Planned exists, ignoring changes for JM9770 node_id:2935
+S01 Planned exists, ignoring changes for JM9775 node_id:2942
+S01 Planned exists, ignoring changes for JS6088 node_id:8794
+S02 Planned exists, ignoring changes for JB9429 node_id:1154
+Cannot find matching node, milestone is MS18, import file says JM9411, original node should be true
+Cannot find matching node, milestone is MS05, import file says JM9411, original node should be true
+S04 Planned exists, ignoring changes for JM9415 node_id:2410
+S03 Forecast has changed from 2011-08-12 by 79 days to 2011-10-30 for JM9418, node_id: 2415
+S02 Forecast has changed from 2011-07-30 by 62 days to 2011-09-30 for JM9418, node_id: 2415
+S04 Planned exists, ignoring changes for JM9396 node_id:2379
+S04 Planned exists, ignoring changes for JM9425 node_id:2427
+S02 Planned exists, ignoring changes for JM9425 node_id:2427
+S04 Planned exists, ignoring changes for JM9394 node_id:2376
+S02 Planned exists, ignoring changes for JM9394 node_id:2376
+S02 Planned exists, ignoring changes for JM9816 node_id:2961
+S01 Planned exists, ignoring changes for JM9816 node_id:2961
+S05 Forecast has changed from 2011-07-21 by 32 days to 2011-08-22 for JM9817, node_id: 2963
+S04 Planned exists, ignoring changes for JM9818 node_id:2965
+S02 Planned exists, ignoring changes for JM9819 node_id:8801
+S01 Planned exists, ignoring changes for JM9819 node_id:8801
+S01 Planned exists, ignoring changes for JS9996 node_id:5675
+S01 Planned exists, ignoring changes for JB9599 node_id:1343
+S02 Planned exists, ignoring changes for JA9241 node_id:403
+S01 Planned exists, ignoring changes for JB9404 node_id:1126
+S02 Planned exists, ignoring changes for JB9404 node_id:1126
+S04 Planned exists, ignoring changes for JM9704 node_id:2839
+S02 Planned exists, ignoring changes for JM9714 node_id:2857
+S04 Planned exists, ignoring changes for JM9714 node_id:2857
+S02 Planned exists, ignoring changes for JM9719 node_id:2867
+S01 Planned exists, ignoring changes for JM9720 node_id:2869
+S02 Planned exists, ignoring changes for JM9720 node_id:2869
+S01 Planned exists, ignoring changes for JM9739 node_id:2905
+S04 Planned exists, ignoring changes for JM9739 node_id:2905
+S02 Planned exists, ignoring changes for JP9230 node_id:3558
+S02 Planned exists, ignoring changes for JP9232 node_id:3562
+S04 Planned exists, ignoring changes for JP9232 node_id:3562
+S01 Planned exists, ignoring changes for JP9239 node_id:3576
+S01 Planned exists, ignoring changes for JP9242 node_id:3582
+S01 Planned exists, ignoring changes for JP9243 node_id:3584
+S04 Planned exists, ignoring changes for JP9253 node_id:3604
+Cannot find matching node, milestone is MS10, import file says JM9091, original node should be true
+Cannot find matching node, milestone is MS11, import file says JM9091, original node should be true
+Cannot find matching node, milestone is MS18, import file says JM9091, original node should be true
+S02 Planned exists, ignoring changes for JA9197 node_id:342
+S04 Planned exists, ignoring changes for JA9197 node_id:342
+S07 Forecast has changed from 2011-09-05 by 29 days to 2011-10-04 for JM9978, node_id: 3128
+S07 Forecast has changed from 2011-06-30 by 15 days to 2011-07-15 for JP9325, node_id: 3698
+S05 Forecast has changed from 2011-06-20 by 10 days to 2011-06-30 for JP9327, node_id: 3702
+Cannot find matching node, milestone is MS11, import file says JA9280, original node should be true
+Cannot find matching node, milestone is MS18, import file says JA9280, original node should be true
+Cannot find matching node, milestone is MS18, import file says Ja9281, original node should be true
+Cannot find matching node, milestone is MS11, import file says Ja9281, original node should be true
+Cannot find matching node, milestone is MS05, import file says Ja9281, original node should be true
+S02 Forecast has changed from 2011-05-20 by 12 days to 2011-06-01 for JB9697, node_id: 8695
+S03 Forecast has changed from 2011-05-20 by 12 days to 2011-06-01 for JB9697, node_id: 8695
+S04 Forecast has changed from 2011-05-20 by 12 days to 2011-06-01 for JB9697, node_id: 8695
+S01 Forecast has changed from 2011-05-20 by 12 days to 2011-06-01 for JB9698, node_id: 8696
+S07 Forecast has changed from 2011-06-02 by 135 days to 2011-10-15 for JB9698, node_id: 8696
+Cannot find matching node, milestone is MS10, import file says JM6039, original node should be true
+Cannot find matching node, milestone is MS15, import file says JM6039, original node should be true
+Cannot find matching node, milestone is MS11, import file says JM6043, original node should be true
+Cannot find matching node, milestone is MS18, import file says JM6043, original node should be true
+Cannot find matching node, milestone is MS13, import file says JM6043, original node should be true
+Cannot find matching node, milestone is MS18, import file says JM6046, original node should be true
+Cannot find matching node, milestone is MS10, import file says JM6046, original node should be true
+Cannot find matching node, milestone is MS05, import file says JM6046, original node should be true
+Cannot find matching node, milestone is MS11, import file says JP9372, original node should be true
+Cannot find matching node, milestone is MS18, import file says JP9372, original node should be true
+Cannot find matching node, milestone is MS15, import file says JP9372, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9373, original node should be true
+Cannot find matching node, milestone is MS05, import file says JP9373, original node should be true
+Cannot find matching node, milestone is MS11, import file says JS6280, original node should be true
+Cannot find matching node, milestone is MS13, import file says JS6280, original node should be true
+Cannot find matching node, milestone is MS11, import file says JS6281, original node should be true
+Cannot find matching node, milestone is MS13, import file says JS6523, original node should be true
+Cannot find matching node, milestone is MS10, import file says JS6523, original node should be true
+Cannot find matching node, milestone is MS11, import file says JS6525, original node should be true
+Cannot find matching node, milestone is MS11, import file says JS6536, original node should be true
+Cannot find matching node, milestone is MS18, import file says JS6536, original node should be true
+Cannot find matching node, milestone is MS10, import file says JS6540, original node should be true
+S02 Planned exists, ignoring changes for JS9043 node_id:4145
+S04 Planned exists, ignoring changes for JS9061 node_id:4181
+Cannot find matching node, milestone is MS18, import file says JS9083, original node should be true
+S02 Planned exists, ignoring changes for JS9087 node_id:4233
+S04 Planned exists, ignoring changes for JS9094 node_id:4246
+S04 Planned exists, ignoring changes for JA9207 node_id:362
+S01 Planned exists, ignoring changes for JM9685 node_id:2801
+S04 Planned exists, ignoring changes for JM9696 node_id:2823
+S04 Planned exists, ignoring changes for JM9697 node_id:2825
+S02 Planned exists, ignoring changes for JM9697 node_id:2825
+S02 Planned exists, ignoring changes for JA9199 node_id:346
+S01 Planned exists, ignoring changes for JA9204 node_id:356
+S02 Planned exists, ignoring changes for JA9205 node_id:358
+S02 Planned exists, ignoring changes for JA9209 node_id:366
+S04 Planned exists, ignoring changes for JP9219 node_id:3536
+S04 Planned exists, ignoring changes for JP9222 node_id:3542
+Cannot find matching node, milestone is MS18, import file says JP9233, original node should be true
+Cannot find matching node, milestone is MS10, import file says JP9233, original node should be true
+S02 Planned exists, ignoring changes for JP9245 node_id:3588
+S02 Planned exists, ignoring changes for JP9256 node_id:3610
+S01 Planned exists, ignoring changes for JS9981 node_id:5647
+S02 Planned exists, ignoring changes for JS6005 node_id:3746
+S02 Planned exists, ignoring changes for JM9770 node_id:2935
+S01 Planned exists, ignoring changes for JM9770 node_id:2935
+S02 Planned exists, ignoring changes for JB9413 node_id:1136
+S01 Planned exists, ignoring changes for JS6026 node_id:3753
+S02 Planned exists, ignoring changes for JS6026 node_id:3753
+S02 Planned exists, ignoring changes for JS6027 node_id:3754
+S02 Planned exists, ignoring changes for JS6051 node_id:3774
+S01 Planned exists, ignoring changes for JS6051 node_id:3774
+S04 Planned exists, ignoring changes for JB9428 node_id:1152
+S01 Planned exists, ignoring changes for JB9428 node_id:1152
+S02 Planned exists, ignoring changes for JA9215 node_id:370
+S04 Planned exists, ignoring changes for JA9215 node_id:370
+S02 Planned exists, ignoring changes for JM9403 node_id:2391
+Cannot find matching node, milestone is MS10, import file says JM9411, original node should be true
+S04 Forecast has changed from 2011-09-11 by 80 days to 2011-11-30 for JM9418, node_id: 2415
+S02 Planned exists, ignoring changes for JM9430 node_id:2436
+S01 Planned exists, ignoring changes for JA9216 node_id:372
+S02 Planned exists, ignoring changes for JP9289 node_id:3658
+S01 Planned exists, ignoring changes for JM9780 node_id:2946
+S02 Planned exists, ignoring changes for JM9780 node_id:2946
+S04 Planned exists, ignoring changes for JM9780 node_id:2946
+S02 Planned exists, ignoring changes for JS9996 node_id:5675
+S02 Planned exists, ignoring changes for JB9599 node_id:1343
+S04 Planned exists, ignoring changes for JB9597 node_id:1340
+S02 Planned exists, ignoring changes for JB9597 node_id:1340
+S01 Planned exists, ignoring changes for JA9241 node_id:403
+S04 Planned exists, ignoring changes for JA9242 node_id:405
+S05 Forecast has changed from 2011-08-20 by 31 days to 2011-09-20 for JM9978, node_id: 3128
+S02 Planned exists, ignoring changes for JP9325 node_id:3698
+S07 Forecast has changed from 2011-07-04 by 12 days to 2011-07-16 for JP9327, node_id: 3702
+S05 Forecast has changed from 2011-05-20 by 12 days to 2011-06-01 for JM9979, node_id: 3130
+S01 Planned exists, ignoring changes for JM9979 node_id:3130
+Cannot find matching node, milestone is MS13, import file says JA9280, original node should be true
+Cannot find matching node, milestone is MS15, import file says JA9280, original node should be true
+Cannot find matching node, milestone is MS05, import file says JA9280, original node should be true
+Cannot find matching node, milestone is MS10, import file says Ja9281, original node should be true
+S01 Forecast has changed from 2011-05-20 by 12 days to 2011-06-01 for JB9697, node_id: 8695
+S07 Forecast has changed from 2011-05-20 by 148 days to 2011-10-15 for JB9697, node_id: 8695
+S03 Forecast has changed from 2011-05-20 by 12 days to 2011-06-01 for JB9698, node_id: 8696
+S04 Forecast has changed from 2011-05-20 by 12 days to 2011-06-01 for JB9698, node_id: 8696
+Cannot find matching node, milestone is MS11, import file says JM6039, original node should be true
+Cannot find matching node, milestone is MS05, import file says JM6043, original node should be true
+Cannot find matching node, milestone is MS05, import file says JP9372, original node should be true
+Cannot find matching node, milestone is MS11, import file says JP9373, original node should be true
+Cannot find matching node, milestone is MS18, import file says JP9373, original node should be true
+Cannot find matching node, milestone is MS15, import file says JP9373, original node should be true
+Cannot find matching node, milestone is MS10, import file says JP9373, original node should be true
+Cannot find matching node, milestone is MS10, import file says JS6281, original node should be true
+Cannot find matching node, milestone is MS18, import file says JS6281, original node should be true
+Cannot find matching node, milestone is MS13, import file says JS6281, original node should be true
+Cannot find matching node, milestone is MS11, import file says JS6523, original node should be true
+Cannot find matching node, milestone is MS18, import file says JS6523, original node should be true
+Cannot find matching node, milestone is MS13, import file says JS6525, original node should be true
+Cannot find matching node, milestone is MS15, import file says JS6525, original node should be true
+Cannot find matching node, milestone is MS10, import file says JS6525, original node should be true
+Cannot find matching node, milestone is MS13, import file says JS6536, original node should be true
+Cannot find matching node, milestone is MS05, import file says JS6536, original node should be true
+Cannot find matching node, milestone is MS11, import file says JS6540, original node should be true
+Cannot find matching node, milestone is MS13, import file says JS6540, original node should be true
+Cannot find matching node, milestone is MS05, import file says JS6540, original node should be true
+Cannot find matching node, milestone is MS13, import file says JM6041, original node should be true
+Cannot find matching node, milestone is MS05, import file says JM6041, original node should be true
+Cannot find matching node, milestone is MS11, import file says JM6041, original node should be true
+S02 Planned exists, ignoring changes for JM9405 node_id:2395
+S04 Planned exists, ignoring changes for JS9036 node_id:4131
+S04 Planned exists, ignoring changes for JS9046 node_id:4153
+S04 Planned exists, ignoring changes for JS9138 node_id:4327
+S04 Planned exists, ignoring changes for JS9140 node_id:4329
+S04 Planned exists, ignoring changes for JS9151 node_id:4351
+S01 Planned exists, ignoring changes for JS9155 node_id:4358
+S04 Planned exists, ignoring changes for JS9155 node_id:4358
+S04 Planned exists, ignoring changes for JS9247 node_id:4514
+S04 Planned exists, ignoring changes for JS9251 node_id:4520
+S02 Planned exists, ignoring changes for JS9072 node_id:4203
+S04 Planned exists, ignoring changes for JS9076 node_id:4211
+S02 Planned exists, ignoring changes for JS9079 node_id:4217
+Cannot find matching node, milestone is MS05, import file says JS9083, original node should be true
+Cannot find matching node, milestone is MS10, import file says JS9083, original node should be true
+Cannot find matching node, milestone is MS11, import file says JS9083, original node should be true
+Cannot find matching node, milestone is MS15, import file says JS9083, original node should be true
+S04 Planned exists, ignoring changes for JS9118 node_id:4292
+S02 Planned exists, ignoring changes for JS9227 node_id:4483
+S04 Planned exists, ignoring changes for JS9120 node_id:4295
+S04 Planned exists, ignoring changes for JS9132 node_id:4318
+S04 Planned exists, ignoring changes for JS9150 node_id:4348
+S04 Planned exists, ignoring changes for JS9163 node_id:4372
+S04 Planned exists, ignoring changes for JS9240 node_id:4505
+S02 Planned exists, ignoring changes for JS9240 node_id:4505
+S01 Planned exists, ignoring changes for JS9247 node_id:4514
+S04 Planned exists, ignoring changes for JS9288 node_id:4577
+S04 Planned exists, ignoring changes for JS9218 node_id:4468
+S04 Planned exists, ignoring changes for JS9196 node_id:4429
+S02 Planned exists, ignoring changes for JS9196 node_id:4429
+S04 Planned exists, ignoring changes for JB9014 node_id:451
+S02 Planned exists, ignoring changes for JB9009 node_id:443
+S04 Planned exists, ignoring changes for JB9128 node_id:648
+S04 Planned exists, ignoring changes for JB9145 node_id:684
+S04 Planned exists, ignoring changes for JM9486 node_id:2495
+S02 Planned exists, ignoring changes for JB9204 node_id:779
+S04 Planned exists, ignoring changes for JB9184 node_id:740
+S04 Planned exists, ignoring changes for JB9104 node_id:608
+S02 Planned exists, ignoring changes for JB9019 node_id:460
+S04 Planned exists, ignoring changes for JB9169 node_id:713
+S02 Planned exists, ignoring changes for JA9045 node_id:82
+S04 Planned exists, ignoring changes for JA9034 node_id:60
+S04 Planned exists, ignoring changes for JA9011 node_id:16
+S02 Planned exists, ignoring changes for JA9036 node_id:64
+S04 Planned exists, ignoring changes for JA9036 node_id:64
+S04 Planned exists, ignoring changes for JA9048 node_id:89
+S04 Planned exists, ignoring changes for JA9042 node_id:76
+S04 Planned exists, ignoring changes for JA9049 node_id:91
+S04 Planned exists, ignoring changes for JA9079 node_id:123
+S04 Planned exists, ignoring changes for JA9089 node_id:139
+S04 Planned exists, ignoring changes for JA9081 node_id:127
+S02 Planned exists, ignoring changes for JA9065 node_id:107
+S02 Planned exists, ignoring changes for JA9052 node_id:94
+S02 Planned exists, ignoring changes for JA9086 node_id:134
+S04 Planned exists, ignoring changes for JA9057 node_id:98
+S02 Planned exists, ignoring changes for JA9057 node_id:98
+S02 Planned exists, ignoring changes for JA9069 node_id:109
+S04 Planned exists, ignoring changes for JA9051 node_id:93
+S02 Planned exists, ignoring changes for JA9051 node_id:93
+S02 Planned exists, ignoring changes for JA9091 node_id:143
+S04 Planned exists, ignoring changes for JA9088 node_id:137
+S02 Planned exists, ignoring changes for JA9092 node_id:145
+S04 Planned exists, ignoring changes for JA9074 node_id:117
+S04 Planned exists, ignoring changes for JA9060 node_id:102
+S02 Planned exists, ignoring changes for JA9060 node_id:102
+S04 Planned exists, ignoring changes for JS9913 node_id:5555
+S04 Planned exists, ignoring changes for JS9210 node_id:4454
+S02 Planned exists, ignoring changes for JS9210 node_id:4454
+S02 Planned exists, ignoring changes for JB9143 node_id:680
+S04 Planned exists, ignoring changes for JP9018 node_id:3181
+S04 Planned exists, ignoring changes for JP9020 node_id:3185
+S04 Planned exists, ignoring changes for JP9019 node_id:3183
+S02 Planned exists, ignoring changes for JP9026 node_id:3197
+S04 Planned exists, ignoring changes for JP9033 node_id:3210
+S04 Planned exists, ignoring changes for JP9040 node_id:3224
+S01 Planned exists, ignoring changes for JP9041 node_id:3225
+S02 Planned exists, ignoring changes for JP9013 node_id:3171
+S04 Planned exists, ignoring changes for JP9070 node_id:3277
+S04 Planned exists, ignoring changes for JP9066 node_id:3269
+S02 Planned exists, ignoring changes for JP9066 node_id:3269
+S04 Planned exists, ignoring changes for JP9076 node_id:3286
+S04 Planned exists, ignoring changes for JP9075 node_id:3284
+S04 Planned exists, ignoring changes for JP9072 node_id:3281
+S04 Planned exists, ignoring changes for JP9067 node_id:3271
+S02 Planned exists, ignoring changes for JS9265 node_id:4539
+S04 Planned exists, ignoring changes for JS9283 node_id:4568
+S02 Planned exists, ignoring changes for JS9303 node_id:4599
+S04 Planned exists, ignoring changes for JS9300 node_id:4595
+S02 Planned exists, ignoring changes for JS9307 node_id:4606
+S04 Planned exists, ignoring changes for JS9307 node_id:4606
+S02 Planned exists, ignoring changes for JS9308 node_id:4609
+S04 Planned exists, ignoring changes for JS9276 node_id:4557
+S02 Planned exists, ignoring changes for JS9276 node_id:4557
+S04 Planned exists, ignoring changes for JS9211 node_id:4456
+S04 Planned exists, ignoring changes for JS9709 node_id:5282
+S02 Planned exists, ignoring changes for JS9709 node_id:5282
+S02 Planned exists, ignoring changes for JP9165 node_id:3452
+S04 Planned exists, ignoring changes for JB9213 node_id:794
+S04 Planned exists, ignoring changes for JP9166 node_id:3454
+S02 Planned exists, ignoring changes for JS9778 node_id:5391
+S02 Planned exists, ignoring changes for JS9777 node_id:5389
+S04 Planned exists, ignoring changes for JS9777 node_id:5389
+S02 Planned exists, ignoring changes for JS9775 node_id:5385
+S02 Planned exists, ignoring changes for JS9791 node_id:5413
+S04 Planned exists, ignoring changes for JS9713 node_id:5286
+S04 Planned exists, ignoring changes for JS9003 node_id:4070
+S02 Planned exists, ignoring changes for JP9061 node_id:3261
+S01 Planned exists, ignoring changes for JP9061 node_id:3261
+S02 Planned exists, ignoring changes for JP9074 node_id:3282
+S02 Planned exists, ignoring changes for JB9127 node_id:646
+S02 Planned exists, ignoring changes for JB9138 node_id:670
+S04 Planned exists, ignoring changes for JM9484 node_id:2489
+S04 Planned exists, ignoring changes for JB9207 node_id:785
+S04 Planned exists, ignoring changes for JB9190 node_id:752
+S02 Planned exists, ignoring changes for JB9104 node_id:608
+S01 Planned exists, ignoring changes for JB9019 node_id:460
+S02 Planned exists, ignoring changes for JB9169 node_id:713
+S04 Planned exists, ignoring changes for JP9038 node_id:3220
+S04 Planned exists, ignoring changes for JP9050 node_id:3239
+S04 Planned exists, ignoring changes for JP9043 node_id:3228
+S04 Planned exists, ignoring changes for JP9048 node_id:3236
+S02 Planned exists, ignoring changes for JP9024 node_id:3193
+S02 Planned exists, ignoring changes for JP9022 node_id:3189
+S02 Planned exists, ignoring changes for JP9025 node_id:3195
+S04 Planned exists, ignoring changes for JP9047 node_id:3235
+S04 Planned exists, ignoring changes for JP9056 node_id:3251
+S04 Planned exists, ignoring changes for JP9051 node_id:3241
+S04 Planned exists, ignoring changes for JP9045 node_id:3231
+S04 Planned exists, ignoring changes for JP9013 node_id:3171
+S02 Planned exists, ignoring changes for JP9075 node_id:3284
+S04 Planned exists, ignoring changes for JP9081 node_id:3294
+S04 Planned exists, ignoring changes for JP9061 node_id:3261
+S04 Planned exists, ignoring changes for JP9074 node_id:3282
+S04 Planned exists, ignoring changes for JS9774 node_id:5383
+S02 Planned exists, ignoring changes for JS9773 node_id:5381
+S04 Planned exists, ignoring changes for JM9601 node_id:2690
+S02 Planned exists, ignoring changes for JM9596 node_id:2680
+S02 Planned exists, ignoring changes for JM9589 node_id:2669
+S04 Planned exists, ignoring changes for JS9793 node_id:5417
+S02 Planned exists, ignoring changes for JM9582 node_id:2657
+S04 Planned exists, ignoring changes for JM9582 node_id:2657
+S02 Planned exists, ignoring changes for JM9573 node_id:2639
+S02 Planned exists, ignoring changes for JM9571 node_id:2635
+S04 Planned exists, ignoring changes for JM9571 node_id:2635
+S02 Planned exists, ignoring changes for JM9567 node_id:2627
+S04 Planned exists, ignoring changes for JM9566 node_id:2625
+S04 Planned exists, ignoring changes for JM9562 node_id:2618
+S02 Planned exists, ignoring changes for JM9561 node_id:2616
+S04 Planned exists, ignoring changes for JB9307 node_id:948
+S04 Planned exists, ignoring changes for JB9309 node_id:951
+S04 Planned exists, ignoring changes for JB9317 node_id:964
+S02 Planned exists, ignoring changes for JB9319 node_id:968
+S04 Planned exists, ignoring changes for JB9319 node_id:968
+S04 Planned exists, ignoring changes for JB9324 node_id:978
+S04 Planned exists, ignoring changes for JB9347 node_id:1023
+S01 Planned exists, ignoring changes for JB9346 node_id:1021
+S02 Planned exists, ignoring changes for JB9346 node_id:1021
+S04 Planned exists, ignoring changes for JB9346 node_id:1021
+S04 Planned exists, ignoring changes for JB9358 node_id:1046
+S01 Planned exists, ignoring changes for JB9359 node_id:1048
+S02 Planned exists, ignoring changes for JB9359 node_id:1048
+S01 Planned exists, ignoring changes for JB9353 node_id:1036
+S04 Planned exists, ignoring changes for JB9325 node_id:980
+S01 Planned exists, ignoring changes for JB9365 node_id:1061
+S04 Planned exists, ignoring changes for JB9308 node_id:949
+S04 Planned exists, ignoring changes for JB9332 node_id:993
+S02 Planned exists, ignoring changes for JS9542 node_id:5053
+S04 Planned exists, ignoring changes for JS9542 node_id:5053
+S01 Planned exists, ignoring changes for JB9349 node_id:1027
+S04 Planned exists, ignoring changes for JB9355 node_id:1040
+S01 Planned exists, ignoring changes for JB9343 node_id:1015
+S02 Planned exists, ignoring changes for JB9354 node_id:1038
+S04 Planned exists, ignoring changes for JB9350 node_id:1029
+S01 Planned exists, ignoring changes for JP9169 node_id:3458
+S02 Planned exists, ignoring changes for JS9833 node_id:5472
+S04 Planned exists, ignoring changes for JS9822 node_id:5458
+S02 Planned exists, ignoring changes for JS9821 node_id:5456
+S04 Planned exists, ignoring changes for JS9808 node_id:5434
+S04 Planned exists, ignoring changes for JS9807 node_id:5432
+S02 Planned exists, ignoring changes for JS9823 node_id:5460
+S04 Planned exists, ignoring changes for JS9823 node_id:5460
+S02 Planned exists, ignoring changes for JB9248 node_id:855
+S02 Planned exists, ignoring changes for JA9170 node_id:295
+S04 Planned exists, ignoring changes for JA9172 node_id:299
+S01 Planned exists, ignoring changes for JA9182 node_id:319
+S02 Planned exists, ignoring changes for JA9183 node_id:321
+Cannot find matching node, milestone is MS13, import file says JA9187, original node should be true
+S04 Planned exists, ignoring changes for JS9899 node_id:5535
+S04 Planned exists, ignoring changes for JS9900 node_id:5537
+S04 Planned exists, ignoring changes for JS9903 node_id:5543
+S01 Planned exists, ignoring changes for JS9903 node_id:5543
+S04 Planned exists, ignoring changes for JM9639 node_id:2735
+S02 Planned exists, ignoring changes for Jm9640 node_id:2737
+S01 Planned exists, ignoring changes for JP9187 node_id:3487
+S02 Planned exists, ignoring changes for JP9188 node_id:3489
+S02 Planned exists, ignoring changes for JP9200 node_id:3511
+S04 Planned exists, ignoring changes for JP9198 node_id:3507
+S02 Planned exists, ignoring changes for JP9198 node_id:3507
+S01 Planned exists, ignoring changes for JP9198 node_id:3507
+S02 Planned exists, ignoring changes for JP9206 node_id:3522
+S04 Planned exists, ignoring changes for JP9207 node_id:3524
+S02 Planned exists, ignoring changes for JP9207 node_id:3524
+S01 Planned exists, ignoring changes for JP9207 node_id:3524
+S02 Planned exists, ignoring changes for JP9209 node_id:3526
+S01 Planned exists, ignoring changes for JP9190 node_id:3493
+S04 Planned exists, ignoring changes for JS9259 node_id:4531
+S01 Planned exists, ignoring changes for JS9263 node_id:4536
+S01 Planned exists, ignoring changes for JM9648 node_id:2752
+S04 Planned exists, ignoring changes for JM9691 node_id:2813
+S01 Planned exists, ignoring changes for JS9952 node_id:5591
+S01 Planned exists, ignoring changes for JS9963 node_id:5613
+S04 Planned exists, ignoring changes for JS9963 node_id:5613
+S04 Planned exists, ignoring changes for JS9964 node_id:5615
+S01 Planned exists, ignoring changes for JS9965 node_id:5617
+S02 Planned exists, ignoring changes for JS9966 node_id:5619
+S04 Planned exists, ignoring changes for JS9966 node_id:5619
+S01 Planned exists, ignoring changes for JS9967 node_id:5621
+S04 Planned exists, ignoring changes for JM9684 node_id:2799
+S02 Planned exists, ignoring changes for JM9694 node_id:2819
+S02 Planned exists, ignoring changes for JM9695 node_id:2821
+S04 Planned exists, ignoring changes for JM9695 node_id:2821
+S02 Planned exists, ignoring changes for JM9702 node_id:2835
+S02 Planned exists, ignoring changes for JS9976 node_id:5637
+S02 Planned exists, ignoring changes for JS9977 node_id:5639
+S04 Planned exists, ignoring changes for JS9977 node_id:5639
+S04 Planned exists, ignoring changes for JS9978 node_id:5641
+S02 Planned exists, ignoring changes for JS9987 node_id:5657
+S02 Planned exists, ignoring changes for JS9992 node_id:5667
+S04 Planned exists, ignoring changes for JS9992 node_id:5667
+S02 Planned exists, ignoring changes for JS9030 node_id:4120
+S04 Planned exists, ignoring changes for JB9404 node_id:1126
+S02 Planned exists, ignoring changes for JM9704 node_id:2839
+S01 Planned exists, ignoring changes for JM9714 node_id:2857
+S04 Planned exists, ignoring changes for JM9720 node_id:2869
+S02 Planned exists, ignoring changes for JM9739 node_id:2905
+S04 Planned exists, ignoring changes for JP9229 node_id:3556
+S01 Planned exists, ignoring changes for JP9230 node_id:3558
+S04 Planned exists, ignoring changes for JP9230 node_id:3558
+S01 Planned exists, ignoring changes for JP9231 node_id:3560
+S02 Planned exists, ignoring changes for JP9231 node_id:3560
+S01 Planned exists, ignoring changes for JP9232 node_id:3562
+S02 Planned exists, ignoring changes for JP9253 node_id:3604
+Cannot find matching node, milestone is MS15, import file says JM9091, original node should be true
+Cannot find matching node, milestone is MS13, import file says JM9091, original node should be true
+Cannot find matching node, milestone is MS05, import file says JM9091, original node should be true
+S02 Planned exists, ignoring changes for JP9270 node_id:3637
+S02 Planned exists, ignoring changes for JP9272 node_id:3641
+S01 Planned exists, ignoring changes for JA9202 node_id:352
+S01 Planned exists, ignoring changes for JA9203 node_id:354
+S01 Planned exists, ignoring changes for JA9207 node_id:362
+S02 Planned exists, ignoring changes for JA9207 node_id:362
+S04 Planned exists, ignoring changes for JS9953 node_id:5593
+S02 Planned exists, ignoring changes for JS9953 node_id:5593
+S04 Planned exists, ignoring changes for JS9954 node_id:5595
+S04 Planned exists, ignoring changes for JS9956 node_id:5599
+S02 Planned exists, ignoring changes for JM9685 node_id:2801
+S01 Planned exists, ignoring changes for JM9697 node_id:2825
+S02 Planned exists, ignoring changes for JM9698 node_id:2827
+S01 Planned exists, ignoring changes for JM9698 node_id:2827
+S05 Forecast has changed from 2011-09-13 by 38 days to 2011-10-21 for JM9721, node_id: 2871
+S07 Forecast has changed from 2011-09-27 by 38 days to 2011-11-04 for JM9721, node_id: 2871
+S01 Planned exists, ignoring changes for JM9721 node_id:2871
+S01 Planned exists, ignoring changes for JA9199 node_id:346
+S04 Planned exists, ignoring changes for JA9205 node_id:358
+S01 Planned exists, ignoring changes for JA9209 node_id:366
+Cannot find matching node, milestone is MS11, import file says JP9233, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9233, original node should be true
+S04 Planned exists, ignoring changes for JP9256 node_id:3610
+S02 Planned exists, ignoring changes for JS9988 node_id:5659
+S02 Planned exists, ignoring changes for JC9059 node_id:1521
+S01 Planned exists, ignoring changes for JS6005 node_id:3746
+S04 Planned exists, ignoring changes for JM9775 node_id:2942
+S04 Planned exists, ignoring changes for JB9413 node_id:1136
+S01 Planned exists, ignoring changes for JB9413 node_id:1136
+S04 Planned exists, ignoring changes for JS6026 node_id:3753
+S04 Planned exists, ignoring changes for JS6027 node_id:3754
+S04 Planned exists, ignoring changes for JS6051 node_id:3774
+S01 Planned exists, ignoring changes for JS6086 node_id:8796
+S04 Planned exists, ignoring changes for JS6087 node_id:8795
+S01 Planned exists, ignoring changes for JB9429 node_id:1154
+S01 Planned exists, ignoring changes for JA9215 node_id:370
+S04 Planned exists, ignoring changes for JM9401 node_id:2387
+Cannot find matching node, milestone is MS11, import file says JM9411, original node should be true
+Cannot find matching node, milestone is MS13, import file says JM9411, original node should be true
+Cannot find matching node, milestone is MS15, import file says JM9411, original node should be true
+S04 Planned exists, ignoring changes for JM9377 node_id:2349
+S01 Planned exists, ignoring changes for JP9289 node_id:3658
+S03 Forecast has changed from 2011-06-01 by 61 days to 2011-08-01 for JM9817, node_id: 2963
+S04 Forecast has changed from 2011-06-30 by 32 days to 2011-08-01 for JM9817, node_id: 2963
+S07 Forecast has changed from 2011-08-04 by 46 days to 2011-09-19 for JM9817, node_id: 2963
+S01 Planned exists, ignoring changes for JM9818 node_id:2965
+S02 Planned exists, ignoring changes for JM9818 node_id:2965
+S04 Planned exists, ignoring changes for JM9819 node_id:8801
+S04 Planned exists, ignoring changes for JB9599 node_id:1343
+S01 Planned exists, ignoring changes for JB9597 node_id:1340
+S04 Planned exists, ignoring changes for JA9241 node_id:403
+S02 Planned exists, ignoring changes for JA9242 node_id:405
+S04 Planned exists, ignoring changes for JP9325 node_id:3698
+S05 Forecast has changed from 2011-06-17 by 13 days to 2011-06-30 for JP9325, node_id: 3698
+Cannot find matching node, milestone is MS10, import file says JA9280, original node should be true
+Cannot find matching node, milestone is MS13, import file says Ja9281, original node should be true
+Cannot find matching node, milestone is MS15, import file says Ja9281, original node should be true
+S05 Forecast has changed from 2011-05-20 by 12 days to 2011-06-01 for JB9698, node_id: 8696
+S02 Forecast has changed from 2011-05-20 by 12 days to 2011-06-01 for JB9698, node_id: 8696
+Cannot find matching node, milestone is MS18, import file says JM6039, original node should be true
+Cannot find matching node, milestone is MS13, import file says JM6039, original node should be true
+Cannot find matching node, milestone is MS05, import file says JM6039, original node should be true
+Cannot find matching node, milestone is MS10, import file says JM6043, original node should be true
+Cannot find matching node, milestone is MS15, import file says JM6043, original node should be true
+Cannot find matching node, milestone is MS11, import file says JM6046, original node should be true
+Cannot find matching node, milestone is MS13, import file says JM6046, original node should be true
+Cannot find matching node, milestone is MS15, import file says JM6046, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9372, original node should be true
+Cannot find matching node, milestone is MS10, import file says JP9372, original node should be true
+Cannot find matching node, milestone is MS18, import file says JS6280, original node should be true
+Cannot find matching node, milestone is MS15, import file says JS6280, original node should be true
+Cannot find matching node, milestone is MS10, import file says JS6280, original node should be true
+Cannot find matching node, milestone is MS05, import file says JS6280, original node should be true
+Cannot find matching node, milestone is MS15, import file says JS6281, original node should be true
+Cannot find matching node, milestone is MS05, import file says JS6281, original node should be true
+Cannot find matching node, milestone is MS11, import file says JS6282, original node should be true
+Cannot find matching node, milestone is MS18, import file says JS6282, original node should be true
+Cannot find matching node, milestone is MS13, import file says JS6282, original node should be true
+Cannot find matching node, milestone is MS15, import file says JS6282, original node should be true
+Cannot find matching node, milestone is MS10, import file says JS6282, original node should be true
+Cannot find matching node, milestone is MS05, import file says JS6282, original node should be true
+Cannot find matching node, milestone is MS15, import file says JS6523, original node should be true
+Cannot find matching node, milestone is MS05, import file says JS6523, original node should be true
+Cannot find matching node, milestone is MS18, import file says JS6525, original node should be true
+Cannot find matching node, milestone is MS05, import file says JS6525, original node should be true
+Cannot find matching node, milestone is MS15, import file says JS6536, original node should be true
+Cannot find matching node, milestone is MS10, import file says JS6536, original node should be true
+Cannot find matching node, milestone is MS18, import file says JS6540, original node should be true
+Cannot find matching node, milestone is MS15, import file says JS6540, original node should be true
+Cannot find matching node, milestone is MS10, import file says JM6041, original node should be true
+Cannot find matching node, milestone is MS18, import file says JM6041, original node should be true
+Cannot find matching node, milestone is MS15, import file says JM6041, original node should be true
+S04 Planned exists, ignoring changes for JM9413 node_id:2407
+S02 Planned exists, ignoring changes for JM9413 node_id:2407
+S04 Planned exists, ignoring changes for JM9426 node_id:2429
+S04 Planned exists, ignoring changes for JS9028 node_id:4116
+S04 Planned exists, ignoring changes for JS9042 node_id:4143
+S02 Planned exists, ignoring changes for JS9046 node_id:4153
+S02 Planned exists, ignoring changes for JS9069 node_id:4197
+Cannot find matching node, milestone is MS13, import file says JS9083, original node should be true
+S04 Planned exists, ignoring changes for JS9098 node_id:4252
+S04 Planned exists, ignoring changes for JS9141 node_id:4331
+S02 Planned exists, ignoring changes for JS9155 node_id:4358
+S02 Planned exists, ignoring changes for JS9283 node_id:4568
+S04 Planned exists, ignoring changes for JS9287 node_id:4575
+S04 Planned exists, ignoring changes for JS9303 node_id:4599
+S04 Planned exists, ignoring changes for JS9304 node_id:4601
+S02 Planned exists, ignoring changes for JS9218 node_id:4468
+S02 Planned exists, ignoring changes for JB9113 node_id:622
+S02 Planned exists, ignoring changes for JB9123 node_id:638
+S02 Planned exists, ignoring changes for JB9124 node_id:640
+S04 Planned exists, ignoring changes for JB9124 node_id:640
+S04 Planned exists, ignoring changes for JB9138 node_id:670
+S04 Planned exists, ignoring changes for JB9144 node_id:682
+S02 Planned exists, ignoring changes for JM9486 node_id:2495
+S02 Planned exists, ignoring changes for JM9484 node_id:2489
+S04 Planned exists, ignoring changes for JS9434 node_id:4857
+S02 Planned exists, ignoring changes for JS9434 node_id:4857
+S02 Planned exists, ignoring changes for JB9189 node_id:750
+S02 Planned exists, ignoring changes for JB9190 node_id:752
+S04 Planned exists, ignoring changes for JS9790 node_id:5411
+S04 Planned exists, ignoring changes for JP9055 node_id:3249
+S04 Planned exists, ignoring changes for JP9046 node_id:3233
+S04 Planned exists, ignoring changes for JP9032 node_id:3208
+S04 Planned exists, ignoring changes for JP9054 node_id:3247
+S04 Planned exists, ignoring changes for JP9052 node_id:8862
+S02 Planned exists, ignoring changes for JP9005 node_id:3154
+S04 Planned exists, ignoring changes for JP9026 node_id:3197
+S02 Planned exists, ignoring changes for JP9048 node_id:3236
+S04 Planned exists, ignoring changes for JP9024 node_id:3193
+S02 Planned exists, ignoring changes for JP9033 node_id:3210
+S04 Planned exists, ignoring changes for JP9035 node_id:3214
+S04 Planned exists, ignoring changes for JP9015 node_id:3175
+S04 Planned exists, ignoring changes for JP9078 node_id:3288
+S01 Planned exists, ignoring changes for JB9427 node_id:1150
+S02 Planned exists, ignoring changes for JB9427 node_id:1150
+S04 Planned exists, ignoring changes for JB9427 node_id:1150
+S01 Planned exists, ignoring changes for JM9457 node_id:2461
+S02 Planned exists, ignoring changes for JM9457 node_id:2461
+S04 Planned exists, ignoring changes for JM9457 node_id:2461
+S01 Planned exists, ignoring changes for JM9463 node_id:2468
+S02 Planned exists, ignoring changes for JM9463 node_id:2468
+S04 Planned exists, ignoring changes for JM9463 node_id:2468
+S01 Planned exists, ignoring changes for JS6047 node_id:3771
+S02 Planned exists, ignoring changes for JS6047 node_id:3771
+S04 Planned exists, ignoring changes for JS6047 node_id:3771
+Parsed 6343 lines of input file
+Added 33 new records
+Tue May 24 14:13:48 +1000 2011
+----------------------------------------------------------------------------
+Tue May 24 14:21:05 +1000 2011
+/home/keith/Reporting/public/documents/0000/0005/850_JV_PMO_20110524.xls
+Cannot find matching node, milestone is MS10, import file says JM6027, original node should be true
+Cannot find matching node, milestone is MS13, import file says JM6027, original node should be true
+Cannot find matching node, milestone is MS05, import file says JB9685, original node should be true
+Cannot find matching node, milestone is MS18, import file says JB9685, original node should be true
+Cannot find matching node, milestone is MS15, import file says JB9685, original node should be true
+S01 Planned exists, ignoring changes for JS6541 node_id:8749
+S01 Forecast has changed from 2011-05-20 by -364 days to 2010-05-21 for JS6541, node_id: 8749
+S03 Planned exists, ignoring changes for JS6541 node_id:8749
+S03 Forecast has changed from 2011-06-27 by -360 days to 2010-07-02 for JS6541, node_id: 8749
+S05 Planned exists, ignoring changes for JB9698 node_id:8696
+S05 Forecast has changed from 2011-06-01 by -218 days to 2010-10-26 for JB9698, node_id: 8696
+Cannot find matching node, milestone is MS10, import file says JP9364, original node should be true
+Cannot find matching node, milestone is MS11, import file says JS6246, original node should be true
+Cannot find matching node, milestone is MS13, import file says JS6246, original node should be true
+Cannot find matching node, milestone is MS05, import file says JB9686, original node should be true
+Cannot find matching node, milestone is MS11, import file says JB9686, original node should be true
+S03 Planned exists, ignoring changes for JS6542 node_id:8748
+S03 Forecast has changed from 2011-06-27 by -343 days to 2010-07-19 for JS6542, node_id: 8748
+S05 Planned exists, ignoring changes for JS6542 node_id:8748
+S05 Forecast has changed from 2011-08-01 by -282 days to 2010-10-23 for JS6542, node_id: 8748
+Cannot find matching node, milestone is MS13, import file says JB9689, original node should be true
+Cannot find matching node, milestone is MS18, import file says JB9687, original node should be true
+Cannot find matching node, milestone is MS15, import file says JB9687, original node should be true
+Cannot find matching node, milestone is MS10, import file says JB9688, original node should be true
+Cannot find matching node, milestone is MS18, import file says JB9688, original node should be true
+Cannot find matching node, milestone is MS18, import file says JB9695, original node should be true
+Cannot find matching node, milestone is MS15, import file says JB9695, original node should be true
+Cannot find matching node, milestone is MS11, import file says JB9682, original node should be true
+Cannot find matching node, milestone is MS13, import file says JB9682, original node should be true
+Cannot find matching node, milestone is MS10, import file says JB9679, original node should be true
+Cannot find matching node, milestone is MS11, import file says JM6025, original node should be true
+Cannot find matching node, milestone is MS13, import file says JM6025, original node should be true
+Cannot find matching node, milestone is MS18, import file says JM6034, original node should be true
+Cannot find matching node, milestone is MS18, import file says JM6030, original node should be true
+Cannot find matching node, milestone is MS15, import file says JM6030, original node should be true
+Cannot find matching node, milestone is MS18, import file says JB9691, original node should be true
+Cannot find matching node, milestone is MS15, import file says JB9691, original node should be true
+Cannot find matching node, milestone is MS18, import file says JP9356, original node should be true
+Cannot find matching node, milestone is MS15, import file says JP9356, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9368, original node should be true
+Cannot find matching node, milestone is MS15, import file says JP9368, original node should be true
+Cannot find matching node, milestone is MS10, import file says JP9361, original node should be true
+Cannot find matching node, milestone is MS05, import file says JP9369, original node should be true
+Cannot find matching node, milestone is MS11, import file says JP9369, original node should be true
+Cannot find matching node, milestone is MS13, import file says JC9103, original node should be true
+Cannot find matching node, milestone is MS18, import file says JC9102, original node should be true
+Cannot find matching node, milestone is MS15, import file says JC9102, original node should be true
+S03 Planned exists, ignoring changes for JB9697 node_id:8695
+S03 Forecast has changed from 2011-06-01 by -338 days to 2010-06-28 for JB9697, node_id: 8695
+S05 Forecast has changed from 2012-01-27 by -248 days to 2011-05-24 for JB9697, node_id: 8695
+Cannot find matching node, milestone is MS11, import file says JP9358, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9358, original node should be true
+Cannot find matching node, milestone is MS18, import file says JB9690, original node should be true
+Cannot find matching node, milestone is MS18, import file says JM6029, original node should be true
+Cannot find matching node, milestone is MS11, import file says JB9681, original node should be true
+Cannot find matching node, milestone is MS10, import file says JB9692, original node should be true
+Cannot find matching node, milestone is MS18, import file says JB9692, original node should be true
+Cannot find matching node, milestone is MS05, import file says JP9360, original node should be true
+Cannot find matching node, milestone is MS10, import file says JP9360, original node should be true
+Cannot find matching node, milestone is MS18, import file says JP9360, original node should be true
+Cannot find matching node, milestone is MS13, import file says JC9104, original node should be true
+Cannot find matching node, milestone is MS10, import file says JS6266, original node should be true
+Cannot find matching node, milestone is MS18, import file says JS6266, original node should be true
+Cannot find matching node, milestone is MS05, import file says JM6032, original node should be true
+Cannot find matching node, milestone is MS15, import file says JM6032, original node should be true
+Cannot find matching node, milestone is MS11, import file says JM6028, original node should be true
+Cannot find matching node, milestone is MS18, import file says JP9359, original node should be true
+Cannot find matching node, milestone is MS18, import file says JB9684, original node should be true
+Cannot find matching node, milestone is MS15, import file says JB9684, original node should be true
+Cannot find matching node, milestone is MS11, import file says JM6026, original node should be true
+Cannot find matching node, milestone is MS18, import file says JM6033, original node should be true
+Cannot find matching node, milestone is MS15, import file says JM6033, original node should be true
+Cannot find matching node, milestone is MS05, import file says JP9362, original node should be true
+Cannot find matching node, milestone is MS10, import file says JP9365, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9365, original node should be true
+Cannot find matching node, milestone is MS10, import file says JP9363, original node should be true
+Cannot find matching node, milestone is MS18, import file says JP9363, original node should be true
+Cannot find matching node, milestone is MS15, import file says JP9363, original node should be true
+Cannot find matching node, milestone is MS05, import file says JP9366, original node should be true
+Cannot find matching node, milestone is MS11, import file says JP9366, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9367, original node should be true
+Cannot find matching node, milestone is MS18, import file says JM6027, original node should be true
+S02 Planned exists, ignoring changes for JS6541 node_id:8749
+S02 Forecast has changed from 2011-06-10 by -357 days to 2010-06-18 for JS6541, node_id: 8749
+S04 Planned exists, ignoring changes for JB9698 node_id:8696
+S04 Forecast has changed from 2011-06-01 by -309 days to 2010-07-27 for JB9698, node_id: 8696
+S07 Planned exists, ignoring changes for JB9698 node_id:8696
+S07 Forecast has changed from 2011-10-15 by -353 days to 2010-10-27 for JB9698, node_id: 8696
+Cannot find matching node, milestone is MS05, import file says JP9364, original node should be true
+Cannot find matching node, milestone is MS10, import file says JS6246, original node should be true
+Cannot find matching node, milestone is MS10, import file says JB9686, original node should be true
+S02 Planned exists, ignoring changes for JS6542 node_id:8748
+S02 Forecast has changed from 2011-06-10 by -319 days to 2010-07-26 for JS6542, node_id: 8748
+S04 Planned exists, ignoring changes for JS6542 node_id:8748
+S04 Forecast has changed from 2011-07-11 by -341 days to 2010-08-04 for JS6542, node_id: 8748
+Cannot find matching node, milestone is MS18, import file says JB9689, original node should be true
+Cannot find matching node, milestone is MS13, import file says JB9687, original node should be true
+Cannot find matching node, milestone is MS11, import file says JB9688, original node should be true
+Cannot find matching node, milestone is MS13, import file says JB9688, original node should be true
+Cannot find matching node, milestone is MS05, import file says JB9678, original node should be true
+Cannot find matching node, milestone is MS15, import file says JB9678, original node should be true
+Cannot find matching node, milestone is MS13, import file says JB9695, original node should be true
+Cannot find matching node, milestone is MS10, import file says JB9682, original node should be true
+Cannot find matching node, milestone is MS15, import file says JB9682, original node should be true
+Cannot find matching node, milestone is MS05, import file says JB9679, original node should be true
+Cannot find matching node, milestone is MS11, import file says JB9679, original node should be true
+Cannot find matching node, milestone is MS18, import file says JM6025, original node should be true
+Cannot find matching node, milestone is MS15, import file says JM6025, original node should be true
+Cannot find matching node, milestone is MS10, import file says JM6034, original node should be true
+Cannot find matching node, milestone is MS13, import file says JM6034, original node should be true
+Cannot find matching node, milestone is MS13, import file says JM6030, original node should be true
+Cannot find matching node, milestone is MS05, import file says JB9691, original node should be true
+Cannot find matching node, milestone is MS18, import file says JP9368, original node should be true
+Cannot find matching node, milestone is MS05, import file says JP9361, original node should be true
+Cannot find matching node, milestone is MS11, import file says JP9361, original node should be true
+Cannot find matching node, milestone is MS10, import file says JP9369, original node should be true
+Cannot find matching node, milestone is MS18, import file says JC9103, original node should be true
+Cannot find matching node, milestone is MS05, import file says JP9370, original node should be true
+Cannot find matching node, milestone is MS11, import file says JP9370, original node should be true
+Cannot find matching node, milestone is MS15, import file says JP9370, original node should be true
+Cannot find matching node, milestone is MS05, import file says JP9357, original node should be true
+Cannot find matching node, milestone is MS05, import file says JC9102, original node should be true
+S02 Planned exists, ignoring changes for JB9697 node_id:8695
+S02 Forecast has changed from 2011-06-01 by -341 days to 2010-06-25 for JB9697, node_id: 8695
+Cannot find matching node, milestone is MS10, import file says JP9358, original node should be true
+Cannot find matching node, milestone is MS10, import file says JB9690, original node should be true
+Cannot find matching node, milestone is MS13, import file says JB9690, original node should be true
+Cannot find matching node, milestone is MS13, import file says JM6029, original node should be true
+Cannot find matching node, milestone is MS15, import file says JM6029, original node should be true
+Cannot find matching node, milestone is MS11, import file says JB9692, original node should be true
+Cannot find matching node, milestone is MS13, import file says JB9692, original node should be true
+Cannot find matching node, milestone is MS11, import file says JP9360, original node should be true
+Cannot find matching node, milestone is MS10, import file says JC9104, original node should be true
+Cannot find matching node, milestone is MS18, import file says JC9104, original node should be true
+Cannot find matching node, milestone is MS05, import file says JB9683, original node should be true
+Cannot find matching node, milestone is MS18, import file says JB9683, original node should be true
+Cannot find matching node, milestone is MS15, import file says JB9683, original node should be true
+Cannot find matching node, milestone is MS05, import file says JS6266, original node should be true
+Cannot find matching node, milestone is MS11, import file says JS6266, original node should be true
+Cannot find matching node, milestone is MS13, import file says JS6266, original node should be true
+Cannot find matching node, milestone is MS10, import file says JM6028, original node should be true
+Cannot find matching node, milestone is MS13, import file says JM6028, original node should be true
+Cannot find matching node, milestone is MS05, import file says JP9359, original node should be true
+Cannot find matching node, milestone is MS15, import file says JP9359, original node should be true
+Cannot find matching node, milestone is MS13, import file says JB9684, original node should be true
+Cannot find matching node, milestone is MS15, import file says JM6026, original node should be true
+Cannot find matching node, milestone is MS10, import file says JP9362, original node should be true
+Cannot find matching node, milestone is MS11, import file says JP9365, original node should be true
+Cannot find matching node, milestone is MS11, import file says JP9363, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9363, original node should be true
+Cannot find matching node, milestone is MS10, import file says JP9366, original node should be true
+Cannot find matching node, milestone is MS18, import file says JP9367, original node should be true
+Cannot find matching node, milestone is MS15, import file says JP9367, original node should be true
+S04 Planned exists, ignoring changes for JS6541 node_id:8749
+S04 Forecast has changed from 2011-07-11 by -368 days to 2010-07-08 for JS6541, node_id: 8749
+S05 Planned exists, ignoring changes for JS6541 node_id:8749
+S05 Forecast has changed from 2011-08-01 by -280 days to 2010-10-25 for JS6541, node_id: 8749
+S07 Planned exists, ignoring changes for JS6541 node_id:8749
+S07 Forecast has changed from 2011-08-15 by -292 days to 2010-10-27 for JS6541, node_id: 8749
+Cannot find matching node, milestone is MS05, import file says JS6246, original node should be true
+S07 Planned exists, ignoring changes for JS6542 node_id:8748
+S07 Forecast has changed from 2011-08-15 by -296 days to 2010-10-23 for JS6542, node_id: 8748
+Cannot find matching node, milestone is MS05, import file says JB9687, original node should be true
+Cannot find matching node, milestone is MS10, import file says JB9687, original node should be true
+Cannot find matching node, milestone is MS11, import file says JB9687, original node should be true
+Cannot find matching node, milestone is MS05, import file says JB9688, original node should be true
+Cannot find matching node, milestone is MS10, import file says JB9678, original node should be true
+Cannot find matching node, milestone is MS11, import file says JB9678, original node should be true
+Cannot find matching node, milestone is MS18, import file says JB9678, original node should be true
+Cannot find matching node, milestone is MS13, import file says JB9678, original node should be true
+Cannot find matching node, milestone is MS05, import file says JM6034, original node should be true
+Cannot find matching node, milestone is MS11, import file says JM6034, original node should be true
+Cannot find matching node, milestone is MS15, import file says JM6034, original node should be true
+Cannot find matching node, milestone is MS05, import file says JM6030, original node should be true
+Cannot find matching node, milestone is MS10, import file says JM6030, original node should be true
+Cannot find matching node, milestone is MS11, import file says JM6030, original node should be true
+Cannot find matching node, milestone is MS10, import file says JB9691, original node should be true
+Cannot find matching node, milestone is MS11, import file says JB9691, original node should be true
+Cannot find matching node, milestone is MS10, import file says JP9368, original node should be true
+Cannot find matching node, milestone is MS11, import file says JP9368, original node should be true
+Cannot find matching node, milestone is MS18, import file says JP9361, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9361, original node should be true
+Cannot find matching node, milestone is MS15, import file says JP9361, original node should be true
+Cannot find matching node, milestone is MS18, import file says JP9369, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9369, original node should be true
+Cannot find matching node, milestone is MS15, import file says JP9369, original node should be true
+Cannot find matching node, milestone is MS10, import file says JP9370, original node should be true
+Cannot find matching node, milestone is MS18, import file says JP9370, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9370, original node should be true
+Cannot find matching node, milestone is MS15, import file says JP9357, original node should be true
+Cannot find matching node, milestone is MS10, import file says JC9102, original node should be true
+Cannot find matching node, milestone is MS11, import file says JC9102, original node should be true
+S07 Forecast has changed from 2011-10-15 by -15 days to 2011-09-30 for JB9697, node_id: 8695
+Cannot find matching node, milestone is MS15, import file says JP9358, original node should be true
+Cannot find matching node, milestone is MS05, import file says JB9690, original node should be true
+Cannot find matching node, milestone is MS11, import file says JB9690, original node should be true
+Cannot find matching node, milestone is MS15, import file says JB9690, original node should be true
+Cannot find matching node, milestone is MS10, import file says JM6029, original node should be true
+Cannot find matching node, milestone is MS11, import file says JM6029, original node should be true
+Cannot find matching node, milestone is MS15, import file says JB9692, original node should be true
+Cannot find matching node, milestone is MS15, import file says JP9360, original node should be true
+Cannot find matching node, milestone is MS05, import file says JC9104, original node should be true
+Cannot find matching node, milestone is MS11, import file says JC9104, original node should be true
+Cannot find matching node, milestone is MS10, import file says JB9683, original node should be true
+Cannot find matching node, milestone is MS11, import file says JB9683, original node should be true
+Cannot find matching node, milestone is MS13, import file says JB9683, original node should be true
+Cannot find matching node, milestone is MS05, import file says JM6028, original node should be true
+Cannot find matching node, milestone is MS18, import file says JM6028, original node should be true
+Cannot find matching node, milestone is MS15, import file says JM6028, original node should be true
+Cannot find matching node, milestone is MS05, import file says JM6026, original node should be true
+Cannot find matching node, milestone is MS05, import file says JM6033, original node should be true
+Cannot find matching node, milestone is MS10, import file says JM6033, original node should be true
+Cannot find matching node, milestone is MS11, import file says JM6033, original node should be true
+Cannot find matching node, milestone is MS11, import file says JP9362, original node should be true
+Cannot find matching node, milestone is MS18, import file says JP9362, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9362, original node should be true
+Cannot find matching node, milestone is MS15, import file says JP9362, original node should be true
+Cannot find matching node, milestone is MS05, import file says JP9363, original node should be true
+Cannot find matching node, milestone is MS05, import file says JM6027, original node should be true
+Cannot find matching node, milestone is MS11, import file says JM6027, original node should be true
+Cannot find matching node, milestone is MS15, import file says JM6027, original node should be true
+Cannot find matching node, milestone is MS10, import file says JB9685, original node should be true
+Cannot find matching node, milestone is MS11, import file says JB9685, original node should be true
+Cannot find matching node, milestone is MS13, import file says JB9685, original node should be true
+S01 Planned exists, ignoring changes for JB9698 node_id:8696
+S01 Forecast has changed from 2011-06-01 by -356 days to 2010-06-10 for JB9698, node_id: 8696
+S02 Planned exists, ignoring changes for JB9698 node_id:8696
+S02 Forecast has changed from 2011-06-01 by -338 days to 2010-06-28 for JB9698, node_id: 8696
+S03 Planned exists, ignoring changes for JB9698 node_id:8696
+S03 Forecast has changed from 2011-06-01 by -336 days to 2010-06-30 for JB9698, node_id: 8696
+Cannot find matching node, milestone is MS11, import file says JP9364, original node should be true
+Cannot find matching node, milestone is MS18, import file says JP9364, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9364, original node should be true
+Cannot find matching node, milestone is MS15, import file says JP9364, original node should be true
+Cannot find matching node, milestone is MS18, import file says JS6246, original node should be true
+Cannot find matching node, milestone is MS15, import file says JS6246, original node should be true
+Cannot find matching node, milestone is MS18, import file says JB9686, original node should be true
+Cannot find matching node, milestone is MS13, import file says JB9686, original node should be true
+Cannot find matching node, milestone is MS15, import file says JB9686, original node should be true
+S01 Planned exists, ignoring changes for JS6542 node_id:8748
+S01 Forecast has changed from 2011-05-20 by -371 days to 2010-05-14 for JS6542, node_id: 8748
+Cannot find matching node, milestone is MS05, import file says JB9689, original node should be true
+Cannot find matching node, milestone is MS10, import file says JB9689, original node should be true
+Cannot find matching node, milestone is MS11, import file says JB9689, original node should be true
+Cannot find matching node, milestone is MS15, import file says JB9689, original node should be true
+Cannot find matching node, milestone is MS15, import file says JB9688, original node should be true
+Cannot find matching node, milestone is MS05, import file says JB9695, original node should be true
+Cannot find matching node, milestone is MS10, import file says JB9695, original node should be true
+Cannot find matching node, milestone is MS11, import file says JB9695, original node should be true
+Cannot find matching node, milestone is MS05, import file says JB9682, original node should be true
+Cannot find matching node, milestone is MS18, import file says JB9682, original node should be true
+Cannot find matching node, milestone is MS18, import file says JB9679, original node should be true
+Cannot find matching node, milestone is MS13, import file says JB9679, original node should be true
+Cannot find matching node, milestone is MS15, import file says JB9679, original node should be true
+Cannot find matching node, milestone is MS05, import file says JM6025, original node should be true
+Cannot find matching node, milestone is MS10, import file says JM6025, original node should be true
+Cannot find matching node, milestone is MS13, import file says JB9691, original node should be true
+Cannot find matching node, milestone is MS05, import file says JP9356, original node should be true
+Cannot find matching node, milestone is MS10, import file says JP9356, original node should be true
+Cannot find matching node, milestone is MS11, import file says JP9356, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9356, original node should be true
+Cannot find matching node, milestone is MS05, import file says JP9368, original node should be true
+Cannot find matching node, milestone is MS05, import file says JC9103, original node should be true
+Cannot find matching node, milestone is MS10, import file says JC9103, original node should be true
+Cannot find matching node, milestone is MS11, import file says JC9103, original node should be true
+Cannot find matching node, milestone is MS15, import file says JC9103, original node should be true
+Cannot find matching node, milestone is MS10, import file says JP9357, original node should be true
+Cannot find matching node, milestone is MS11, import file says JP9357, original node should be true
+Cannot find matching node, milestone is MS18, import file says JP9357, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9357, original node should be true
+Cannot find matching node, milestone is MS13, import file says JC9102, original node should be true
+S01 Planned exists, ignoring changes for JB9697 node_id:8695
+S01 Forecast has changed from 2011-06-01 by -351 days to 2010-06-15 for JB9697, node_id: 8695
+S04 Planned exists, ignoring changes for JB9697 node_id:8695
+S04 Forecast has changed from 2011-06-01 by -316 days to 2010-07-20 for JB9697, node_id: 8695
+Cannot find matching node, milestone is MS05, import file says JP9358, original node should be true
+Cannot find matching node, milestone is MS18, import file says JP9358, original node should be true
+Cannot find matching node, milestone is MS05, import file says JM6029, original node should be true
+Cannot find matching node, milestone is MS05, import file says JB9681, original node should be true
+Cannot find matching node, milestone is MS10, import file says JB9681, original node should be true
+Cannot find matching node, milestone is MS18, import file says JB9681, original node should be true
+Cannot find matching node, milestone is MS13, import file says JB9681, original node should be true
+Cannot find matching node, milestone is MS15, import file says JB9681, original node should be true
+Cannot find matching node, milestone is MS05, import file says JB9692, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9360, original node should be true
+Cannot find matching node, milestone is MS15, import file says JC9104, original node should be true
+Cannot find matching node, milestone is MS15, import file says JS6266, original node should be true
+Cannot find matching node, milestone is MS10, import file says JM6032, original node should be true
+Cannot find matching node, milestone is MS11, import file says JM6032, original node should be true
+Cannot find matching node, milestone is MS18, import file says JM6032, original node should be true
+Cannot find matching node, milestone is MS13, import file says JM6032, original node should be true
+Cannot find matching node, milestone is MS10, import file says JP9359, original node should be true
+Cannot find matching node, milestone is MS11, import file says JP9359, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9359, original node should be true
+Cannot find matching node, milestone is MS05, import file says JB9684, original node should be true
+Cannot find matching node, milestone is MS10, import file says JB9684, original node should be true
+Cannot find matching node, milestone is MS11, import file says JB9684, original node should be true
+Cannot find matching node, milestone is MS10, import file says JM6026, original node should be true
+Cannot find matching node, milestone is MS18, import file says JM6026, original node should be true
+Cannot find matching node, milestone is MS13, import file says JM6026, original node should be true
+Cannot find matching node, milestone is MS13, import file says JM6033, original node should be true
+Cannot find matching node, milestone is MS05, import file says JP9365, original node should be true
+Cannot find matching node, milestone is MS18, import file says JP9365, original node should be true
+Cannot find matching node, milestone is MS15, import file says JP9365, original node should be true
+Cannot find matching node, milestone is MS18, import file says JP9366, original node should be true
+Cannot find matching node, milestone is MS13, import file says JP9366, original node should be true
+Cannot find matching node, milestone is MS15, import file says JP9366, original node should be true
+Cannot find matching node, milestone is MS05, import file says JP9367, original node should be true
+Cannot find matching node, milestone is MS10, import file says JP9367, original node should be true
+Cannot find matching node, milestone is MS11, import file says JP9367, original node should be true
+Cannot find matching node, milestone is MS11, import file says JC9109, original node should be true
+Cannot find matching node, milestone is MS10, import file says JC9109, original node should be true
+Cannot find matching node, milestone is MS05, import file says JC9109, original node should be true
+Cannot find matching node, milestone is MS18, import file says JC9109, original node should be true
+Cannot find matching node, milestone is MS13, import file says JC9109, original node should be true
+Cannot find matching node, milestone is MS15, import file says JC9109, original node should be true
+Parsed 1963 lines of input file
+Added 3965 new records
+Tue May 24 14:25:45 +1000 2011
+----------------------------------------------------------------------------
+Tue May 24 16:14:48 +1000 2011
+/home/keith/Reporting/public/documents/0000/0006/JV_newsite_IBC_current_.csv
+S3 Forecast has changed from 2011-05-23 by 39 days to 2011-07-01 for JB9587, node_id: 1330
+S4 Forecast has changed from 2011-07-22 by 21 days to 2011-08-12 for JB9587, node_id: 1330
+S5 Forecast has changed from 2011-07-14 by 4 days to 2011-07-18 for JB9587, node_id: 1330
+S3 Forecast has changed from 2011-06-10 by 98 days to 2011-09-16 for JB9588, node_id: 1331
+S5 Forecast has changed from 2011-07-14 by 4 days to 2011-07-18 for JB9588, node_id: 1331
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JB9592, node_id: 1335
+S4 Forecast has changed from 2011-06-30 by 15 days to 2011-07-15 for JB9649, node_id: 1357
+S6 Forecast has changed from 2011-05-20 by 4 days to 2011-05-24 for JB9650, node_id: 1358
+S2 Forecast has changed from 2011-08-30 by 16 days to 2011-09-15 for JB9654, node_id: 1362
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JB9528, node_id: 1258
+S5 Forecast has changed from 2011-06-21 by 4 days to 2011-06-25 for JB9532, node_id: 1263
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JB9543, node_id: 1275
+S2 Forecast has changed from 2011-05-01 by 85 days to 2011-07-25 for JB9548, node_id: 1281
+S3 Forecast has changed from 2011-04-18 by 122 days to 2011-08-18 for JB9548, node_id: 1281
+S4 Forecast has changed from 2011-05-25 by 153 days to 2011-10-25 for JB9548, node_id: 1281
+S6 Forecast has changed from 2011-05-30 by 153 days to 2011-10-30 for JB9548, node_id: 1281
+S5 Actual exists,ignoring changes for JB9550 node_id:1283
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JB9551, node_id: 1285
+S5 Forecast has changed from 2011-06-14 by 4 days to 2011-06-18 for JB9553, node_id: 1287
+S2 Forecast has changed from 2011-06-21 by 92 days to 2011-09-21 for JB9555, node_id: 1290
+S6 Forecast has changed from 2011-08-20 by 61 days to 2011-10-20 for JB9555, node_id: 1290
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JB9558, node_id: 1294
+S2 Forecast has changed from 2011-06-15 by 153 days to 2011-11-15 for JB9560, node_id: 1297
+S3 Forecast has changed from 2011-08-15 by 92 days to 2011-11-15 for JB9560, node_id: 1297
+S4 Forecast has changed from 2011-08-20 by 122 days to 2011-12-20 for JB9560, node_id: 1297
+S6 Forecast has changed from 2011-09-20 by 122 days to 2012-01-20 for JB9560, node_id: 1297
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JB9562, node_id: 1301
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JB9565, node_id: 1306
+S6 Forecast has changed from 2011-05-25 by 20 days to 2011-06-14 for JB9565, node_id: 1306
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JB9567, node_id: 1309
+S2 Forecast has changed from 2011-06-29 by 61 days to 2011-08-29 for JB9664, node_id: 1372
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JB9672, node_id: 1380
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JB9676, node_id: 1384
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JB9677, node_id: 1385
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JC9009, node_id: 1419
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JC9010, node_id: 1421
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JC9015, node_id: 1431
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JC9040, node_id: 1487
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JC9041, node_id: 1489
+S6 Forecast has changed from 2011-05-18 by 23 days to 2011-06-10 for JM6105, node_id: 9005
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JB9502, node_id: 1233
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JB9512, node_id: 1243
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JB9517, node_id: 1248
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JB9520, node_id: 1251
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9410, node_id: 2401
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9824, node_id: 5685
+S2 Forecast has changed from 2011-05-14 by 6 days to 2011-05-20 for JM9825, node_id: 2974
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9825, node_id: 2974
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9832, node_id: 2978
+S5 Forecast has changed from 2011-07-23 by 4 days to 2011-07-27 for JM9835, node_id: 8560
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9840, node_id: 8556
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9842, node_id: 8511
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9843, node_id: 8588
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9849, node_id: 2992
+S5 Forecast has changed from 2011-06-06 by 4 days to 2011-06-10 for JM9499, node_id: 2514
+S5 Forecast has changed from 2011-06-23 by 4 days to 2011-06-27 for JM9871, node_id: 3013
+S5 Forecast has changed from 2011-06-23 by 4 days to 2011-06-27 for JM9875, node_id: 3017
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JC9058, node_id: 1519
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JC9070, node_id: 8657
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JC9072, node_id: 1533
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JC9074, node_id: 1535
+S4 Forecast has changed from 2011-06-30 by 15 days to 2011-07-15 for JC9078, node_id: 1540
+S5 Forecast has changed from 2011-07-14 by 4 days to 2011-07-18 for JC9078, node_id: 1540
+S2 Forecast has changed from 2011-05-25 by 19 days to 2011-06-13 for JC9079, node_id: 1541
+S3 Forecast has changed from 2011-06-04 by 9 days to 2011-06-13 for JC9079, node_id: 1541
+S5 Forecast has changed from 2011-06-14 by 9 days to 2011-06-23 for JC9079, node_id: 1541
+S6 Forecast has changed from 2011-05-18 by 3 days to 2011-05-21 for JC9099, node_id: 1561
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM6037, node_id: 1598
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JM9296, node_id: 2202
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JM9297, node_id: 2204
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9298, node_id: 2206
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9299, node_id: 2209
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9300, node_id: 2210
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9303, node_id: 2216
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JM9305, node_id: 2219
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9308, node_id: 2225
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9314, node_id: 2233
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9317, node_id: 2239
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9320, node_id: 2245
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9323, node_id: 2251
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9324, node_id: 2253
+S5 Forecast has changed from 2011-06-26 by 201 days to 2012-01-13 for JM9723, node_id: 2875
+S2 Forecast has changed from 2011-06-16 by 81 days to 2011-09-05 for JM9724, node_id: 2877
+S3 Forecast has changed from 2011-06-15 by 85 days to 2011-09-08 for JM9724, node_id: 2877
+S4 Forecast has changed from 2011-07-30 by 86 days to 2011-10-24 for JM9724, node_id: 2877
+S5 Forecast has changed from 2011-08-27 by 31 days to 2011-09-27 for JM9724, node_id: 2877
+S6 Forecast has changed from 2011-09-15 by 45 days to 2011-10-30 for JM9724, node_id: 2877
+S5 Forecast has changed from 2011-06-21 by 4 days to 2011-06-25 for JM9726, node_id: 2879
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JM9727, node_id: 2881
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JM9728, node_id: 2883
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9733, node_id: 2893
+S5 Forecast has changed from 2011-06-26 by 201 days to 2012-01-13 for JM9738, node_id: 2903
+S5 Forecast has changed from 2011-06-23 by 4 days to 2011-06-27 for JM9745, node_id: 2917
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9330, node_id: 2264
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9331, node_id: 2266
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JM9339, node_id: 2281
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9340, node_id: 2284
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9345, node_id: 2294
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9347, node_id: 2297
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9348, node_id: 2300
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9355, node_id: 2313
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9356, node_id: 2314
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9357, node_id: 2317
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9359, node_id: 2321
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JM9361, node_id: 2323
+S5 Forecast has changed from 2011-06-21 by 4 days to 2011-06-25 for JM9362, node_id: 2325
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9365, node_id: 2329
+S5 Forecast has changed from 2011-06-23 by 4 days to 2011-06-27 for JM9773, node_id: 2939
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9004, node_id: 1651
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JM9032, node_id: 1710
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9366, node_id: 2331
+S5 Forecast has changed from 2011-07-23 by 4 days to 2011-07-27 for JM9368, node_id: 2334
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9373, node_id: 2342
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9385, node_id: 2360
+S5 Forecast has changed from 2011-06-21 by 4 days to 2011-06-25 for JM9787, node_id: 2950
+Cannot find matching node for WA ID 88933, import file says JM9033 - Grace McKellar Gellong
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JA9224, node_id: 384
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JA9229, node_id: 390
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JA9243, node_id: 407
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JA9244, node_id: 408
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9508, node_id: 2530
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JM9512, node_id: 2536
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9514, node_id: 2540
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9517, node_id: 2546
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JM9518, node_id: 2548
+S5 Forecast has changed from 2011-06-06 by 4 days to 2011-06-10 for JM9528, node_id: 2560
+S5 Forecast has changed from 2011-06-06 by 4 days to 2011-06-10 for JM9532, node_id: 2568
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9533, node_id: 2570
+S5 Forecast has changed from 2011-06-06 by 4 days to 2011-06-10 for JM9536, node_id: 2578
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9537, node_id: 2580
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9542, node_id: 2586
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9543, node_id: 2588
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9545, node_id: 2591
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9988, node_id: 3142
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9989, node_id: 3143
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9992, node_id: 3146
+S2 Forecast has changed from 2011-05-19 by 7 days to 2011-05-26 for JM9998, node_id: 3152
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9172, node_id: 1972
+S5 Forecast has changed from 2011-06-09 by 4 days to 2011-06-13 for JM9175, node_id: 1978
+S5 Forecast has changed from 2011-07-23 by 4 days to 2011-07-27 for JM9179, node_id: 1985
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9180, node_id: 1987
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9554, node_id: 2606
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9902, node_id: 3047
+S5 Forecast has changed from 2011-06-26 by 80 days to 2011-09-14 for JM9922, node_id: 3067
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9932, node_id: 3079
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9933, node_id: 3080
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9935, node_id: 3082
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9937, node_id: 3084
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9938, node_id: 3085
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9182, node_id: 1992
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9183, node_id: 1994
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9185, node_id: 1997
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JM9186, node_id: 2000
+S5 Forecast has changed from 2011-07-23 by 4 days to 2011-07-27 for JM9188, node_id: 2004
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9192, node_id: 2010
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JM9196, node_id: 2018
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9197, node_id: 2020
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JM9198, node_id: 2022
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JM9201, node_id: 2028
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9209, node_id: 2042
+Cannot find matching node for WA ID 99753, import file says JM9210 - 5 Bowen Cres Melbourne
+S5 Forecast has changed from 2011-06-06 by 4 days to 2011-06-10 for JM9212, node_id: 2046
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9213, node_id: 2048
+S5 Forecast has changed from 2011-06-21 by 4 days to 2011-06-25 for JM9215, node_id: 2054
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9216, node_id: 2055
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9621, node_id: 2704
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9622, node_id: 2706
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JM9624, node_id: 2710
+S4 Forecast has changed from 2011-05-25 by 5 days to 2011-05-30 for JM9225, node_id: 2071
+S5 Forecast has changed from 2011-06-19 by 11 days to 2011-06-30 for JM9225, node_id: 2071
+S6 Forecast has changed from 2011-06-04 by 13 days to 2011-06-17 for JM9225, node_id: 2071
+S5 Forecast has changed from 2011-07-23 by 4 days to 2011-07-27 for JM9227, node_id: 2074
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JM9229, node_id: 2079
+S5 Forecast has changed from 2011-06-04 by 104 days to 2011-09-16 for JM9230, node_id: 2080
+S5 Forecast has changed from 2011-06-21 by 4 days to 2011-06-25 for JM9233, node_id: 2084
+S5 Forecast has changed from 2011-06-21 by 4 days to 2011-06-25 for JM9237, node_id: 2090
+S5 Forecast has changed from 2011-06-06 by 4 days to 2011-06-10 for JM9238, node_id: 2092
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9240, node_id: 2097
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9244, node_id: 2107
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9246, node_id: 2110
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9248, node_id: 2113
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9249, node_id: 2116
+S5 Forecast has changed from 2011-07-23 by 4 days to 2011-07-27 for JM9253, node_id: 2124
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JM9255, node_id: 2126
+S5 Forecast has changed from 2011-07-23 by 4 days to 2011-07-27 for JM9629, node_id: 2720
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9643, node_id: 2744
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9645, node_id: 2748
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JM9651, node_id: 2758
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9655, node_id: 2766
+S2 Forecast has changed from 2011-07-15 by 31 days to 2011-08-15 for JM9657, node_id: 2770
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9662, node_id: 2776
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9945, node_id: 3092
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9946, node_id: 3093
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9955, node_id: 3104
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9956, node_id: 3105
+Cannot find matching node for WA ID 102710, import file says JM9960 - 600 Bourke St IBC -O
+S5 Actual exists,ignoring changes for JM9969 node_id:3118
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9970, node_id: 3119
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JM9257, node_id: 2130
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9258, node_id: 2131
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JM9261, node_id: 2138
+S5 Forecast has changed from 2011-06-23 by 4 days to 2011-06-27 for JM9262, node_id: 2140
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9265, node_id: 2147
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9272, node_id: 2158
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9274, node_id: 2161
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9281, node_id: 2175
+S5 Forecast has changed from 2011-07-23 by 4 days to 2011-07-27 for JM9284, node_id: 2181
+S5 Forecast has changed from 2011-07-23 by 4 days to 2011-07-27 for JM9290, node_id: 2192
+S5 Forecast has changed from 2011-07-23 by 4 days to 2011-07-27 for JM9291, node_id: 2193
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9679, node_id: 2789
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9680, node_id: 2791
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9681, node_id: 2793
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9687, node_id: 2805
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9693, node_id: 2817
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JB9454, node_id: 1184
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JB9461, node_id: 1191
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JB9469, node_id: 1200
+S5 Forecast has changed from 2011-06-09 by 4 days to 2011-06-13 for JB9470, node_id: 1201
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JB9471, node_id: 1202
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JB9473, node_id: 1204
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JB9474, node_id: 1205
+S5 Forecast has changed from 2011-06-06 by 4 days to 2011-06-10 for JB9480, node_id: 1211
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JB9481, node_id: 1212
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JB9482, node_id: 1213
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JB9487, node_id: 1218
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JB9488, node_id: 1219
+S5 Forecast has changed from 2011-06-14 by 4 days to 2011-06-18 for JS6193, node_id: 3886
+Cannot find matching node for WA ID 99367, import file says JS9017 - 420 George St
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JP9258, node_id: 3613
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JP9263, node_id: 3623
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JP9280, node_id: 3649
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JP9291, node_id: 3662
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS6161, node_id: 3856
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JS6170, node_id: 3864
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS6171, node_id: 3865
+S2 Forecast has changed from 2011-05-26 by 25 days to 2011-06-20 for JS6178, node_id: 3872
+S3 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS6178, node_id: 3872
+S4 Forecast has changed from 2011-06-30 by 61 days to 2011-08-30 for JS6178, node_id: 3872
+S5 Forecast has changed from 2011-06-10 by 41 days to 2011-07-21 for JS6178, node_id: 3872
+S6 Forecast has changed from 2011-08-14 by 31 days to 2011-09-14 for JS6178, node_id: 3872
+S5 Forecast has changed from 2011-06-14 by 4 days to 2011-06-18 for JS6182, node_id: 3877
+S4 Forecast has changed from 2010-06-30 by 915 days to 2012-12-31 for JA9265, node_id: 417
+S5 Forecast has changed from 2011-08-20 by -45 days to 2011-07-06 for JA9277, node_id: 424
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JB9436, node_id: 8533
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JB9437, node_id: 8534
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JB9445, node_id: 1175
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JB9448, node_id: 1178
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9724, node_id: 5304
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS9729, node_id: 5312
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS9732, node_id: 5318
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JS9734, node_id: 5322
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9735, node_id: 5324
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JS9747, node_id: 5342
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9748, node_id: 5344
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JS9761, node_id: 5366
+S5 Forecast has changed from 2011-06-25 by 4 days to 2011-06-29 for JS9762, node_id: 5368
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS9765, node_id: 5372
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9767, node_id: 5376
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JS6213, node_id: 3904
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS6230, node_id: 3923
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS6236, node_id: 3929
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS6239, node_id: 3932
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JS9405, node_id: 4799
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9410, node_id: 4811
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JS9411, node_id: 4813
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9414, node_id: 4818
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JS9419, node_id: 4829
+S5 Forecast has changed from 2011-06-06 by 4 days to 2011-06-10 for JS9429, node_id: 4847
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS9430, node_id: 4850
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS9431, node_id: 4851
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS9433, node_id: 4855
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS9437, node_id: 4863
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9328, node_id: 4644
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9342, node_id: 4675
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JS9345, node_id: 4682
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JS9350, node_id: 4692
+S5 Forecast has changed from 2011-06-11 by 1 days to 2011-06-12 for JS9355, node_id: 4701
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JS9362, node_id: 4718
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS9368, node_id: 4732
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9371, node_id: 4737
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JS9378, node_id: 4751
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS9385, node_id: 4760
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9390, node_id: 4771
+S5 Forecast has changed from 2011-06-11 by 1 days to 2011-06-12 for JS9397, node_id: 4784
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JS9401, node_id: 4793
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS9403, node_id: 4795
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS9443, node_id: 4875
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS9451, node_id: 4890
+S5 Forecast has changed from 2011-06-11 by 1 days to 2011-06-12 for JS9459, node_id: 4903
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS9461, node_id: 4908
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS9466, node_id: 4918
+S5 Forecast has changed from 2011-06-11 by 1 days to 2011-06-12 for JS9467, node_id: 4919
+S5 Forecast has changed from 2011-06-11 by 1 days to 2011-06-12 for JS9470, node_id: 4926
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS9472, node_id: 4930
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS9473, node_id: 4932
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS9477, node_id: 4937
+S5 Forecast has changed from 2011-06-06 by 4 days to 2011-06-10 for JS9485, node_id: 4953
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS9495, node_id: 4969
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9502, node_id: 4980
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9550, node_id: 5066
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9554, node_id: 5072
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9556, node_id: 5075
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS9567, node_id: 5095
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JS9575, node_id: 5106
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JS9578, node_id: 5112
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JS9582, node_id: 5120
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JS9611, node_id: 5172
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS9615, node_id: 5180
+S5 Forecast has changed from 2011-06-11 by 1 days to 2011-06-12 for JS9619, node_id: 5186
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9634, node_id: 5202
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JM9895, node_id: 3039
+S5 Forecast has changed from 2011-07-23 by 4 days to 2011-07-27 for JM9178, node_id: 1983
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9287, node_id: 2186
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9766, node_id: 5374
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JP9104, node_id: 3342
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9319, node_id: 2243
+S5 Forecast has changed from 2011-07-23 by 4 days to 2011-07-27 for JM9740, node_id: 2907
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9006, node_id: 1655
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9414, node_id: 2408
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JM9476, node_id: 2478
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9191, node_id: 2007
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9218, node_id: 2059
+S3 Forecast has changed from 2011-07-01 by -42 days to 2011-05-20 for JP9355, node_id: 3731
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS6240, node_id: 3933
+S1 Forecast has changed from 2011-09-06 by 182 days to 2012-03-06 for JS6249, node_id: 3941
+S2 Forecast has changed from 2011-10-30 by 366 days to 2012-10-30 for JS6249, node_id: 3941
+S3 Forecast has changed from 2011-11-20 by 366 days to 2012-11-20 for JS6249, node_id: 3941
+S4 Forecast has changed from 2011-12-25 by 366 days to 2012-12-25 for JS6249, node_id: 3941
+S5 Forecast has changed from 2011-11-30 by 366 days to 2012-11-30 for JS6249, node_id: 3941
+S2 Forecast has changed from 2011-05-18 by 9 days to 2011-05-27 for JS6254, node_id: 3949
+S2 Forecast has changed from 2011-05-18 by 9 days to 2011-05-27 for JS6259, node_id: 3951
+S5 Forecast has changed from 2011-06-05 by 30 days to 2011-07-05 for JS6259, node_id: 3951
+S5 Forecast has changed from 2011-07-14 by 4 days to 2011-07-18 for JS6264, node_id: 3956
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JS6265, node_id: 3957
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JS6277, node_id: 3964
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JS6278, node_id: 3965
+S2 Forecast has changed from 2011-08-04 by 92 days to 2011-11-04 for JS6283, node_id: 3970
+S3 Forecast has changed from 2011-08-25 by 153 days to 2012-01-25 for JS6283, node_id: 3970
+S4 Forecast has changed from 2011-10-29 by 119 days to 2012-02-25 for JS6283, node_id: 3970
+S6 Forecast has changed from 2011-11-27 by 107 days to 2012-03-13 for JS6283, node_id: 3970
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS9352, node_id: 4696
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JM9454, node_id: 2458
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JM9502, node_id: 2520
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JS9809, node_id: 5436
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JS9810, node_id: 5438
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JS9830, node_id: 5468
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9839, node_id: 5481
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JS9870, node_id: 8714
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JS9871, node_id: 8713
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JS9877, node_id: 5491
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JS9882, node_id: 5501
+S5 Forecast has changed from 2011-06-21 by 4 days to 2011-06-25 for JS9884, node_id: 5505
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9926, node_id: 3072
+S5 Forecast has changed from 2011-06-21 by 4 days to 2011-06-25 for JM9236, node_id: 2088
+S5 Forecast has changed from 2011-06-25 by 1 days to 2011-06-26 for JS9327, node_id: 4642
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS9598, node_id: 5148
+S5 Forecast has changed from 2011-06-09 by 4 days to 2011-06-13 for JS9886, node_id: 5509
+S5 Forecast has changed from 2011-06-21 by 4 days to 2011-06-25 for JS9887, node_id: 5511
+S5 Forecast has changed from 2011-07-14 by 4 days to 2011-07-18 for JS9895, node_id: 5527
+Cannot find matching node for WA ID 38950, import file says JS9912 - Homebush Superdome
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS9921, node_id: 5561
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JS9923, node_id: 8725
+S3 Forecast has changed from 2011-05-13 by 49 days to 2011-07-01 for JB9596, node_id: 1338
+S4 Forecast has changed from 2011-07-01 by 49 days to 2011-08-19 for JB9596, node_id: 1338
+S6 Forecast has changed from 2011-07-08 by 61 days to 2011-09-07 for JB9596, node_id: 1338
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JC9039, node_id: 1484
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JC9083, node_id: 1545
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JB9463, node_id: 1193
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JB9509, node_id: 1240
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9302, node_id: 2214
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9728, node_id: 5310
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JP9160, node_id: 3444
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JP9247, node_id: 3592
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9375, node_id: 2346
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS9930, node_id: 5574
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JS9951, node_id: 5589
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS9957, node_id: 5601
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS9960, node_id: 5607
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS9961, node_id: 5609
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JM9496, node_id: 2508
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9552, node_id: 2602
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JM9252, node_id: 2122
+S5 Forecast has changed from 2011-06-11 by 1 days to 2011-06-12 for JS9471, node_id: 4928
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS9970, node_id: 5625
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JS9971, node_id: 5627
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JS9972, node_id: 5629
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS9973, node_id: 5631
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS9986, node_id: 5655
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JS9989, node_id: 5661
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS9994, node_id: 5672
+S5 Forecast has changed from 2011-07-14 by 4 days to 2011-07-18 for JS9995, node_id: 5673
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JB9579, node_id: 1322
+S4 Forecast has changed from 2011-06-28 by 16 days to 2011-07-14 for JM9823, node_id: 5683
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JM9823, node_id: 5683
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JS6279, node_id: 3966
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JP9194, node_id: 3500
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JP9196, node_id: 3503
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JP9197, node_id: 3505
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JS6122, node_id: 8760
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JS6124, node_id: 3818
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS6139, node_id: 3835
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS6144, node_id: 3840
+S5 Forecast has changed from 2011-06-20 by 31 days to 2011-07-21 for JS6151, node_id: 3847
+S5 Forecast has changed from 2011-06-11 by 1 days to 2011-06-12 for JS6153, node_id: 3849
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JS6028, node_id: 3757
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JS6036, node_id: 3766
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS6038, node_id: 3767
+S4 Actual exists,ignoring changes for JS6294 node_id:3976
+S5 Forecast has changed from 2011-06-21 by 9 days to 2011-06-30 for JS6342, node_id: 3986
+S2 Forecast has changed from 2011-06-01 by 14 days to 2011-06-15 for JS6418, node_id: 4005
+S4 Forecast has changed from 2011-06-28 by 17 days to 2011-07-15 for JS6418, node_id: 4005
+S5 Forecast has changed from 2011-06-27 by -7 days to 2011-06-20 for JS6418, node_id: 4005
+S5 Forecast has changed from 2011-06-04 by 4 days to 2011-06-08 for JP9100, node_id: 3334
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JP9128, node_id: 3387
+S5 Forecast has changed from 2011-06-25 by 4 days to 2011-06-29 for JS6068, node_id: 3783
+S5 Forecast has changed from 2011-06-11 by 1 days to 2011-06-12 for JS6071, node_id: 3786
+S5 Forecast has changed from 2011-06-11 by 1 days to 2011-06-12 for JS6072, node_id: 3787
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS6074, node_id: 3789
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS6076, node_id: 3792
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JS6431, node_id: 4012
+S5 Forecast has changed from 2011-06-06 by 4 days to 2011-06-10 for JS6505, node_id: 4039
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JP9146, node_id: 3423
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JP9147, node_id: 3425
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JP9148, node_id: 3426
+S5 Forecast has changed from 2011-06-19 by 4 days to 2011-06-23 for JP9151, node_id: 3431
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS6085, node_id: 8766
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS6095, node_id: 3805
+S5 Forecast has changed from 2011-06-25 by -3 days to 2011-06-22 for JS6099, node_id: 8769
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS6100, node_id: 8775
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JS6107, node_id: 8778
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS6108, node_id: 8770
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JS6109, node_id: 8771
+S5 Forecast has changed from 2011-06-11 by 1 days to 2011-06-12 for JS6110, node_id: 8774
+S5 Forecast has changed from 2011-06-18 by 4 days to 2011-06-22 for JS6114, node_id: 3812
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JS6115, node_id: 8763
+S5 Forecast has changed from 2011-06-26 by 4 days to 2011-06-30 for JS6119, node_id: 3815
+S5 Forecast has changed from 2011-06-28 by 4 days to 2011-07-02 for JS9221, node_id: 4473
+S5 Forecast has changed from 2011-06-16 by 4 days to 2011-06-20 for JP9236, node_id: 3570
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JP9246, node_id: 3590
+S5 Forecast has changed from 2011-06-11 by 4 days to 2011-06-15 for JP9248, node_id: 3594
+S6 Actual exists,ignoring changes for JA9241 node_id:403
+S6 Actual exists,ignoring changes for JP9256 node_id:3610
+Cannot find matching node for WA ID 34032, import file says JB9133 - NEWSTEAD -V
+S6 Actual exists,ignoring changes for JB9428 node_id:1152
+Cannot find matching node for WA ID 68234, import file says JS9285 - Wollongong Road -V
+Parsed 2838 lines of input file
+Added 438 new records
+Tue May 24 16:37:45 +1000 2011
+----------------------------------------------------------------------------

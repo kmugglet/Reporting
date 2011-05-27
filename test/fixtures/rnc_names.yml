@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  rnc_number: 1
+  rnc_name: MyString
+  state_id: 1
+
+two:
+  rnc_number: 1
+  rnc_name: MyString
+  state_id: 1

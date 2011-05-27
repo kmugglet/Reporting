@@ -1,0 +1,68 @@
+<b>View/Edit <%= h(@spin.spinnumber) %></b>
+<% form_for(@spin, :html => {:multipart => true}, :url => {:action=>'cancel_spin', :id => @spin.id}) do |f| -%>
+    <table>
+      <tr>
+        <td>
+          <label for="spin_Name">
+            Spin Title:
+          </label>
+        <td><%= f.text_field 'Name' %>
+      </tr>
+      <tr>
+        <td>
+          <label for="spin_Descr">
+            Description:
+          </label>
+        <td><%= f.text_field 'Descr' %>
+      </tr>
+      <tr>
+        <td>
+          <label for="spin_operator">
+            Operator:
+          </label>
+        <td><%= f.text_field 'operator' %>
+      </tr>
+      <tr>
+        <td>
+          <label for="spin_initiator">
+            Initiator:
+          </label>
+        <td><%= f.text_field 'initiator' %>
+      </tr>
+      <tr>
+        <td>
+          <label for="spin_email">
+            Email:
+          </label>
+        <td><%= f.text_field 'email' %>
+      </tr>
+      <tr>
+        <td>
+          <label for="spin_phone">
+            Phone:
+          </label>
+        <td><%= f.text_field 'phone' %>
+      </tr>
+      <tr>
+        <td>
+          <%= label(:jv_tracking, "Comments") %>
+        </td>
+        <td>
+          <%= f.text_field :jv_tracking %>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <%= label(:spin, :tracking_id, 'Cancel') %>
+          <%= radio_button(:spin, :tracking_id, 7, :checked => true) %>
+        </td>
+        <td>
+          <%= label(:spin, :tracking_id, 'Reject') %>
+          <%= radio_button(:spin, :tracking_id, 8) %>
+        </td>
+      </tr>
+    </table>
+    <%= submit_tag "OK" %>
+<% end %>
+<p>
+  <%= link_to 'Home', {:action => 'index'} %>

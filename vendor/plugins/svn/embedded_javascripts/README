@@ -1,0 +1,39 @@
+Embedded JavaScripts v.1.0
+==========================
+This plugin help you to integrate your server-side javascripts in your view.
+
+The main problems of webmaster is pass vars to .js files.
+
+The only way wose include your js in the view or put it on partials, but now, with 
+Embedded JavaScripts all is most simple and good to look.
+
+Make a new pure javascript file and give ejs extension and all are done!
+
+Example:
+
+def myview
+	@var = "Hello World here"
+end
+
+myview.rhtml
+	
+	<%= include_javascript "mytest" %>
+	
+	Put wath you want here
+	
+test.ejs
+
+	alert('<%= @var %>');
+	
+Result
+
+	<script type="text/javascript" charset="utf-8">
+		alert('Hello World here');
+	</script>
+	
+	Put wath you want here
+	
+	
+Simple no????
+
+Please visit http://blog.lipsiasoft.com and give me a good rating!

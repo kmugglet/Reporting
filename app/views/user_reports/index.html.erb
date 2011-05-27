@@ -1,0 +1,24 @@
+<h1>Listing user_reports</h1>
+
+<table>
+  <tr>
+    <th>User</th>
+    <th>Report</th>
+    <th>Active</th>
+  </tr>
+
+<% @user_reports.each do |user_report| %>
+  <tr>
+    <td><%=h user_report.user_id %></td>
+    <td><%=h user_report.report_id %></td>
+    <td><%=h user_report.active %></td>
+    <td><%= link_to 'Show', user_report %></td>
+    <td><%= link_to 'Edit', edit_user_report_path(user_report) %></td>
+    <td><%= link_to 'Destroy', user_report, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New user_report', new_user_report_path %>

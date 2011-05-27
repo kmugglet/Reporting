@@ -1,0 +1,83 @@
+<% form_for :transmission_date, @request, :url => {:action=>'save_request', :id => @request.id} do |f| %>
+    <table border='1'>
+      <%= f.hidden_field :node_id %>
+      <%= f.hidden_field :Invoice_Party %>
+      <%= f.hidden_field :tx_source_programme_id %>
+      <%= f.hidden_field :operator_id %>
+      <%= f.hidden_field :Split_No %>
+      <%= f.hidden_field :Request_No %>
+      <%= f.hidden_field :Active_Node_Owner %>
+      <%= f.hidden_field :Existing_Capacity %>
+      <%= f.hidden_field :link_technology_id %>
+      <tr>
+        <td>Site ID</td>
+        <TD>Macro,IBC, or Repeater</TD>
+        <td>ATM or IP</td>
+        <td>Current Capacity</td>
+        <td>New/Additional Capacity</td>
+        <td>Remarks</td>
+      </tr>
+      <tr>
+        <td><%= @jv_site.jv_site %></td>
+        <td><%= @jv_site.macro_type.name %></td>
+        <td><%= @request.link_technology.name %></td>
+        <td><%= @request.Existing_Capacity %></td>
+        <td><%= f.text_field :Required_Capacity, :size => "3" %></td>
+        <td><%= text_field :transmission_date, :Remarks, :size => "25" %></td>
+      </tr>
+      <tr>
+        <td>
+          <label for='transmission_date_date_raised'>
+            Date Raised
+          </label>
+        </td>
+        <td>
+          <label for='transmission_date_date_required_by'>
+            Date Required By
+          </label>
+        </td>
+        <td>
+          <label for='transmission_date_S7_Forecast'>
+            S7 Forecast
+          </label>
+        </td>
+        <td>
+          <label for='transmission_date_S8_Forecast'>
+            S8 Forecast
+          </label>
+        </td>
+        <td>
+          <label for='transmission_date_S7_Actual'>
+            S7 Actual
+          </label>
+        </td>
+        <td>
+          <label for='transmission_date_S8_Actual'>
+            S8 Actual
+          </label>
+      </tr>
+      <tr>
+        <td>
+          <%= f.text_field 'date_raised' %>
+        </td>
+        <td>
+          <%= f.text_field 'date_required_by' %>
+        </td>
+        <td>
+          <%= f.text_field 'S7_Forecast' %>
+        </td>
+        <td>
+          <%= f.text_field 'S8_Forecast' %>
+        </td>
+        <td>
+          <%= f.text_field 'S7_Actual' %>
+        </td>
+        <td>
+          <%= f.text_field 'S8_Actual' %>
+        </td>
+      </tr>
+    </table>
+    <%= f.submit 'Save Update', :id => 'update' %>
+
+<% end %>
+

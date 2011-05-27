@@ -1,0 +1,206 @@
+xml.instruct! :xml, :version=>"1.0", :encoding=>"UTF-8"
+xml.Workbook({
+                 'xmlns' => "urn:schemas-microsoft-com:office:spreadsheet",
+                 'xmlns:o' => "urn:schemas-microsoft-com:office:office",
+                 'xmlns:x' => "urn:schemas-microsoft-com:office:excel",
+                 'xmlns:html' => "http://www.w3.org/TR/REC-html40",
+                 'xmlns:ss' => "urn:schemas-microsoft-com:office:spreadsheet"
+             }) do
+
+  xml.Styles do
+    xml.Style 'ss:ID' => 'Default', 'ss:Name' => 'Normal' do
+      xml.Alignment 'ss:Vertical' => 'Bottom'
+      xml.Borders
+      xml.Font 'ss:FontName' => 'Verdana'
+      xml.Interior
+      xml.NumberFormat
+      xml.Protection
+    end
+    xml.Style 'ss:ID' => 's22' do
+      xml.NumberFormat 'ss:Format' => 'General Date'
+    end
+  end
+
+  xml.Worksheet 'ss:Name' => 'Sites' do
+    xml.Table do
+
+      # Header
+      xml.Row do
+        xml.Cell do
+          xml.Data "JV_ID", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Site_Name", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "State", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Area", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Optus_site", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Vodafone_site", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "pre_spinoza_site_status", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Macro_Type", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "build_responsibility", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "source", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Address", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Replacing", 'ss:Type' => 'String'
+        end
+
+      end
+
+      # Rows
+      for record in @site_records
+        xml.Row do
+          xml.Cell do
+            xml.Data record.JV_ID, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.Site_Name, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.State, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.Area, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.optus_site, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.vodafone_site, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.pre_spinoza_site_status, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.Macro_Type, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.build_responsibility, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.source, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.address, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.replacing, 'ss:Type' => 'String'
+          end
+        end
+      end
+    end
+  end
+
+  xml.Worksheet 'ss:Name' => 'Nodes' do
+    xml.Table do
+
+      # Header
+      xml.Row do
+        xml.Cell do
+          xml.Data "JV_ID", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Site_Name", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Node Number", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Cabinet Serial", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Node Owner", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "WBTS", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "RNC", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "RNC Name", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Node Type", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Source", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Build Status", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "Area", 'ss:Type' => 'String'
+        end
+        xml.Cell do
+          xml.Data "WA ID", 'ss:Type' => 'String'
+        end
+
+      end
+
+      # Rows
+      for record in @node_records
+        xml.Row do
+          xml.Cell do
+            xml.Data record.jv_id, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.site_name, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.node_number, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.cabinet_serial, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.node_owner, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.wbts, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.rnc, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.rnc_name, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.node_type, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.source, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.build_status, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.Area, 'ss:Type' => 'String'
+          end
+          xml.Cell do
+            xml.Data record.wa_id, 'ss:Type' => 'String'
+          end
+        end
+      end
+    end
+  end
+
+end

@@ -1,0 +1,130 @@
+<b>View/Edit <%= h(@spin.spinnumber) %></b>
+<% current_status = @spin.tracking_id %>
+<% current_status = current_status + 1 unless current_status >5 %>
+<% next_action = Tracking.find(current_status).action %>
+<% next_button = Tracking.find(current_status).category %>
+
+<% form_for(@spin, :html => {:multipart => true}, :url => {:action=> next_action, :id => @spin.id}) do |f| -%>
+
+    <table>
+      <%
+         tid = @spin.tracking_id
+      %>
+      <tr>
+        <td>
+          <label for="spin_Name">
+            Spin Title:
+          </label>
+        <td><%= f.text_field 'Name' %>
+      </tr>
+      <tr>
+        <td>
+          <label for="spin_Descr">
+            Description:
+          </label>
+        <td><%= f.text_field 'Descr' %>
+      </tr>
+      <tr>
+        <td>
+          <label for="spin_operator">
+            Operator:
+          </label>
+        <td><%= f.text_field 'operator' %>
+      </tr>
+      <tr>
+        <td>
+          <label for="spin_initiator">
+            Initiator:
+          </label>
+        <td><%= f.text_field 'initiator' %>
+      </tr>
+      <tr>
+        <td>
+          <label for="spin_email">
+            Email:
+          </label>
+        <td><%= f.text_field 'email' %>
+      </tr>
+      <tr>
+        <td>
+          <label for="spin_phone">
+            Phone:
+          </label>
+        <td><%= f.text_field 'phone' %>
+      </tr>
+      <tr>
+        <td>
+          <%= f.label :tracking_id, 'Track Category:' %>
+        </td>
+        <td>
+          <%= f.select(:tracking_id, Tracking.all.collect { |p| [p.category, p.id] }, {:prompt => 'Select Current Status'}) %>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <label for="spin_date_raised">
+            Date Raised:
+          </label>
+        <td><%= date_select("spin", "date_raised", :order => [:day, :month, :year], :include_blank => true) %>
+      </tr>
+      <tr>
+        <td>
+          <label for="spin_optus_final">
+            Optus Final:
+          </label>
+        <td><%= date_select('spin', 'optus_final', :order => [:day, :month, :year], :include_blank => true) %>
+      </tr>
+      <tr>
+        <td>
+          <label for="spin_vha_final">
+            VHA Final:
+          </label>
+        <td><%= date_select('spin', 'vha_final', :order => [:day, :month, :year], :include_blank => true) %>
+      </tr>
+      <tr>
+        <td>
+          <label for="spin_jvo_final">
+            JVO Final:
+          </label>
+        <td><%= date_select('spin', 'jvo_final', :order => [:day, :month, :year], :include_blank => true) %>
+      </tr>
+      <tr>
+        <td>
+          <label for="spin_date_closed">
+            Date Closed:
+          </label>
+        <td><%= date_select('spin', 'date_closed', :order => [:day, :month, :year], :include_blank => true) %>
+      </tr>
+    </table>
+    <p>
+      Upload completed template
+    </p>
+    <% f.fields_for :documents do |a| %>
+        <%= a.label :uploaded_data %>
+        <%= a.file_field :uploaded_data %>      <br>
+        <% break %>
+    <% end %>
+
+    <% unless @spin_sites.empty? %>
+        Site/Node/Cell data affected by this spin (includes existing data)
+        <%= render :partial => 'spin_sites', :locals => {:f => f} %>
+    <% else %>
+        <h2>No site/node data yet uploaded - Please upload to progress approval stage</h2>
+    <% end %>
+
+    <br>
+    <br>
+    <% unless @spin.tracking_id > 5 %>
+        <button>
+          <%= link_to next_button, {:action => next_action, :id => @spin.id} %>
+        </button>
+        <button>
+          <%= link_to 'Save Updates', {:action => 'update', :id => @spin.id} %>
+        </button>
+        <button>
+          <%= link_to 'Cancel Spin', {:action => 'cancel', :id => @spin.id} %>
+        </button>
+    <% end %>
+<% end %>
+<p>
+  <%= link_to 'Home', {:action => 'index'} %>

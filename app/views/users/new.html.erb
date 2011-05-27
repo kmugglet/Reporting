@@ -1,0 +1,71 @@
+<div class="depot-form">
+
+  <% form_for(@user) do |f| %>
+      <%= f.error_messages %>
+
+      <fieldset>
+        <legend>Enter User Details</legend>
+
+        <div>
+          <%= f.label :name, "Username" %>:
+          <%= f.text_field :name, :size => 10 %>
+        </div>
+
+        <div>
+          <%= f.label :full_name, "Full Name" %>:
+          <%= f.text_field :full_name, :size => 40 %>
+        </div>
+
+        <div>
+          <%= f.label :email %>:
+          <%= f.text_field :email, :size => 40 %>
+        </div>
+
+        <div>
+           <%= f.label :phone %>:
+           <%= f.text_field :phone, :size => 16 %>
+         </div>
+
+        <div>
+           <%= f.label :company , 'Customer (Optus,VHA,NSN,JVO)' %>:
+           <%= f.text_field :company, :size => 40 %>
+         </div>
+
+          <div>
+          <%= f.label :admin_level, 'Admin Level (1,2 or 3)' %>:
+          <%= f.text_field :admin_level, :size => 1 %>
+        </div>
+
+        <div>
+          <%= f.label :password, 'Password' %>:
+          <%= f.password_field :password, :size => 12 %>
+        </div>
+
+        <div>
+          <%= f.label :password_confirmation, 'Confirm' %>:
+          <%= f.password_field :password_confirmation, :size => 12 %>
+        </div>
+
+        <div>
+          <%= f.label :report_access, "Use Report section" %>
+          <%= f.check_box :report_access %>
+        </div>
+
+        <div>
+          <%= f.label :spin_access, "Use SPINs section" %>
+          <%= f.check_box :spin_access %>
+        </div>
+
+        <div>
+          <%= f.label :transmission_access, "Use transmission section" %>
+          <%= f.check_box :transmission_access %>
+        </div>
+
+        <div>
+          <%= f.submit "Add User", :class => "submit" %>
+        </div>
+
+      </fieldset>
+  <% end %>
+
+</div>

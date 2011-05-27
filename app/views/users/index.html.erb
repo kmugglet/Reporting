@@ -1,0 +1,27 @@
+<h1>Listing users</h1>
+
+<table>
+  <tr>
+    <th>Name </th>
+    <th>Username </th>
+  </tr>
+
+<% for user in @users %>
+  <tr>
+    <td><%=h user.full_name %></td>
+    <td><%=h user.name %></td>
+    <% if user['id']== session[:user_id] or session[:admin_access] %>
+    <td><%= link_to 'Edit', edit_user_path(user) %></td>
+    <td><%= link_to 'Destroy', user, :confirm => 'Are you sure?',
+                                        :method => :delete if session[:admin_access]%></td>
+    <%end%>
+  </tr>
+
+<% end %>
+</table>
+<%= will_paginate @users %>
+<%= page_entries_info @users %>
+
+<br />
+
+<%= link_to 'New user', new_user_path if session[:admin_access] %>
